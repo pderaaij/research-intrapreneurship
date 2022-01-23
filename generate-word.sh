@@ -6,6 +6,6 @@ pandoc \
 $(cat compile-metadata/thesis-structure.txt) \
 --toc \
 --top-level-division=chapter \
--o report/thesis.pdf
+-o report/thesis.docx
 
-open report/thesis.pdf
+open report/thesis.docx
