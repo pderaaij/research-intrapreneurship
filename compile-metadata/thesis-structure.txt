@@ -1,0 +1,3 @@
+compile-metadata/metadata.md
+thesis/chapter-1.md
+thesis/chapter-2.md
