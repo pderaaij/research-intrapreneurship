@@ -8,4 +8,5 @@ The first subchapter of the second chapter
 
 > Test a blockquote
 
+
 [@article-deprez-2017, p. 22-23]
