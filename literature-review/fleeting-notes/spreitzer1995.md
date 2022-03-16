@@ -1,19 +1,25 @@
 # PSYCHOLOGICAL EMPOWERMENT IN THE WORKPLACE: DIMENSIONS, MEASUREMENT, AND VALIDATION
 
-![[spreitzer1995-zotero#Metadata]]
+## Metadata
 
-Other files:
-* Mdnotes File Name: [[spreitzer1995]]
-* Metadata File Name: [[spreitzer1995-zotero]]
+- Item Type: [[Article]]
+- Authors: [[Gretchen M Spreitzer]]
+- Date: [[1995]]
+- Date Added: [[2022-02-15]]
+- Cite key: spreitzer1995
+- Topics: [[intrapreneurship-research]]
+  , #zotero, #literature-notes, #reference
+- PDF Attachments
+  - [Spreitzer - PSYCHOLOGICAL EMPOWERMENT IN THE WORKPLACE DIMENS.pdf](zotero://open-pdf/library/items/N2CDRN4G)
 
-##  Zotero links
-* [Local library](zotero://select/items/1_GTC5WDI4)
-* [Cloud library](http://zotero.org/users/local/050xYApm/items/GTC5WDI4)
+## Zotero links
+
+- [Local library](zotero://select/items/1_GTC5WDI4)
+- [Cloud library](http://zotero.org/users/local/050xYApm/items/GTC5WDI4)
 
 ## Notes
-- 
 
-* Mdnotes File Name: [[spreitzer1995]]
+- Mdnotes File Name: [[spreitzer1995]]
 
 # Extracted Annotations (2022-03-15)
 
@@ -21,7 +27,7 @@ Other files:
 
 > "Similarly, Conger and Kanungo (1988) argued that management practices are only one set of conditions and that those practices may empower employees but will not necessarily do so." ([Spreitzer 1995:26](zotero://open-pdf/library/items/N2CDRN4G?page=2))
 
-> "Thomas and Velthouse (1990) argued that empowerment is multifaceted and that its essence cannot be captured by a single concept. Tbey defined empowerment more broadly as increased intrinsic task motivation manifested in a set of four cognitions reflecting an individual's orientation to his or her work role: meaning, competence (which is synonymous with Conger and Kanungo's self-efficacy), self-determination, and impact." ([Spreitzer 1995:26](zotero://open-pdf/library/items/N2CDRN4G?page=2))
+> "Thomas and Velthouse (1990) argued that empowerment is multifaceted and that its essence cannot be captured by a single concept. They defined empowerment more broadly as increased intrinsic task motivation manifested in a set of four cognitions reflecting an individual's orientation to his or her work role: meaning, competence (which is synonymous with Conger and Kanungo's self-efficacy), self-determination, and impact." ([Spreitzer 1995:26](zotero://open-pdf/library/items/N2CDRN4G?page=2))
 
 > "Meaning. Meaning is the value of a work goal or purpose, judged in relation to an individual's own ideals or standards (Thomas & Velthouse, 1990). Meaning involves a fit between the requirements of a work role and beliefs, values, and behaviors (Brief & Nord, 1990; Hackman & Oldham, 1980)." ([Spreitzer 1995:26](zotero://open-pdf/library/items/N2CDRN4G?page=2))
 
@@ -36,7 +42,6 @@ The belief to do something because you are able to
 Being able to decide - on your own - if, when and how the work is going to be done or continued
 
 > "Impact. Impact is the degree to which an individual can influence" ([Spreitzer 1995:26](zotero://open-pdf/library/items/N2CDRN4G?page=2))
-
 > "Strategic, administrative, or operating outcomes at work (Ashforth. 1989). Impact is the converse of learned helplessness (Martinko & Gardner, 1982)" ([Spreitzer 1995:27](zotero://open-pdf/library/items/N2CDRN4G?page=3))
 
 The amount of influence I cat have on processes or outcomes
@@ -65,13 +70,10 @@ If an individual has a better perception of him or herself that would lead to pe
 
 > "To be empowering, a reward system must recognize individual contribution (Lawler, 1986)." ([Spreitzer 1995:31](zotero://open-pdf/library/items/N2CDRN4G?page=7))
 
-> "Though rewards for group or organization performance may be heneficial, often individuals do not have a clear understanding of how their own actions can influence performance at higher levels (Lawler. 1986)." ([Spreitzer 1995:31](zotero://open-pdf/library/items/N2CDRN4G?page=7))
+> "Though rewards for group or organization performance may be beneficial, often individuals do not have a clear understanding of how their own actions can influence performance at higher levels (Lawler. 1986)." ([Spreitzer 1995:31](zotero://open-pdf/library/items/N2CDRN4G?page=7))
 
 > "Managerial effectiveness is generally defined as the degree to which a manager fulfills or exceeds work role expectations." ([Spreitzer 1995:31](zotero://open-pdf/library/items/N2CDRN4G?page=7))
 
 > "Innovative behaviors reflect the creation of something new or different. Innovative bebaviors are by definition change-oriented because they involve the creation of a new product, service, idea, procedure, or process (Woodman, Sawyer, & Criffin, 1993)" ([Spreitzer 1995:32](zotero://open-pdf/library/items/N2CDRN4G?page=8))
 
-> "More specifically, hecause empowered individuals believe they are autonomous and have an impact, tbey are likely to be creative; they feel less constrained than others by technical or rule-bound aspects of work (Amabile, 1988)." ([Spreitzer 1995:32](zotero://open-pdf/library/items/N2CDRN4G?page=8))
-
-
-
+> "More specifically, because empowered individuals believe they are autonomous and have an impact, tbey are likely to be creative; they feel less constrained than others by technical or rule-bound aspects of work (Amabile, 1988)." ([Spreitzer 1995:32](zotero://open-pdf/library/items/N2CDRN4G?page=8))
