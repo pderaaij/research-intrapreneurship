@@ -28,13 +28,31 @@ It's a belief that is tacit and not given direct attention by individuals or the
 
 ### Learning behaviour is a process
 
-Learning is a process which consists out of behaviour. These behaviours tries to achieve outcomes as adaptation to change, greater understand, or improved performance in teams. Argyris and Sch6n (1978) defined learning as a process of detecting and correcting error.
+Learning is a process which consists out of behaviour. These behaviours tries to achieve outcomes as adaptation to change, greater understanding, or improved performance in teams. Argyris and Schön (1978) defined learning as a process of detecting and correcting error.
+
+### Psychological safety has a positive effect on learning behaviour
+
+The study of Edmondson found substantial empirical support for the relationship between psychological safety and learning behaviour. It effects learning behaviour which in turn affects team performance.
 
 ### Learning behaviour in teams is positively associated with team performance
 
 Learning behaviour has shown to be a significant predictor of team performance. To engage in learning behaviour the team is highly dependent on team psychological safety.
 
+### Learning at group level is an ongoing process
+
+Edmondson defines learning at group level as:
+
+> I conceptualise learning at the group level of analysis as an ongoing process of reflection and action, characterised by asking questions, seeking feedback, experimenting, reflecting on results, and discussing errors or unexpected outcomes of actions." ([Edmondson 1999:353](zotero://open-pdf/library/items/GCFY8NFT?page=4))
+
 ### Mediating effect between psychological safety and team efficacy has not been found
+
+Psychological safety is a mechanism that mediates between effective team design and learning behaviour. Having effective team leader coaching and context support help to develop an environment in which team members can develop shared beliefs foundational to psychological safety.
+
+> Effective team leader coaching and context support, such as access to information and resources, appear to contribute to, but not to fully shape, an environment in which team members can develop shared beliefs that well-intentioned interpersonal risks will not be punished, and these beliefs enable team members to take proactive learning-oriented action, which in turn fosters effective performance." ([Edmondson 1999:377](zotero://open-pdf/library/items/GCFY8NFT?page=28))
+
+### Psychological safety is not the same as group cohesiveness
+
+Research has shown that cohesiveness can reduce willingness to disagree and challenge others' views, such as in the phenomenon of groupthink (Janis, 1982)" ([Edmondson 1999:354](zotero://open-pdf/library/items/GCFY8NFT?page=5))
 
 ### Questions to measure psychological safety
 
