@@ -1,0 +1,40 @@
+name: Deploy Digital Garden
+
+on:
+  push:
+    paths:
+      - .github/**
+      - notes/**
+      - _layouts/**
+
+jobs:
+  deploy-website:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v2.2.0
+        with:
+          node-version: 16
+
+      - name: Install website dependencies
+        run: npm install
+        working-directory: _layouts
+
+      - name: Copy temporary compute-inbounds file
+        uses: canastro/copy-file-action@master
+        with:
+          source: "_layouts/tmp_overwrite/compute-inbounds.js"
+          target: "_layouts/node_modules/gatsby-transformer-markdown-references/lib/compute-inbounds.js"
+
+      - name: Build website
+        run: npm run build
+        working-directory: _layouts
+
+      - name: FTP Deploy to garden.paulderaaij.nl
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+          ftp-server: sftp://paulderaaij.nl.transurl.nl/subdomains/intrapreneurship/
+          ftp-username: ${{ secrets.FTP_USER }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          git-ftp-args: --insecure
+          local-dir: _layouts/public/
