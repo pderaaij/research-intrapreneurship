@@ -37,4 +37,4 @@ Taking into account this definition the authors found that job autonomy was rela
 
 Although job variety relates with the overall entrepreneurial behaviour, it does not remain significant when testing for the dimensions of innovation, proactivity and risk taking.
 
-This might be because job variety only influences the perceived capabilities for entrepreneurial behavior. Job autonomy on the other hand increasess the perceived control over the work environment wich also enhances employee' motivation or willingness to engage in such behaviour.
+This might be because job variety only influences the perceived capabilities for entrepreneurial behavior. Job autonomy on the other hand increases the perceived control over the work environment wich also enhances employee' motivation or willingness to engage in such behaviour.
