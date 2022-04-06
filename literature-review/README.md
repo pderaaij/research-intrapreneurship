@@ -1,6 +1,6 @@
 # 🏫 Literature review for my thesis
 
-This digital garden holds my literature research for my thesis. Researching the impact of autonomy fit on intrapreneurially behaviour, moderated by [[psychological-safety]].
+This digital garden holds my literature research for my thesis. Researching the impact of autonomy fit on [[intrapreneurship|intrapreneurially behaviour]], moderated by [[psychological-safety]].
 
 Currently I am at the first stages of research and executing my literature review. As such I am formulating the hypothesis and research question. Autonomy fit for example could be replaced by [[empowerment]].
 
