@@ -22,21 +22,21 @@ module.exports = {
         // ],
       },
     },
-    `gatsby-plugin-catch-links`,
-    {
-      resolve: "gatsby-plugin-mdx",
-      options: {
-        gatsbyRemarkPlugins: [
-          {
-            resolve: "gatsby-remark-obsidian",
-            options: {
-              titleToURL: (title) => `/notes/${title.replace(/\\/g, "")}`,
-              stripBrackets: true,
-            },
-          },
-        ],
-      },
-    },
+    // `gatsby-plugin-catch-links`,
+    // {
+    //   resolve: "gatsby-plugin-mdx",
+    //   options: {
+    //     gatsbyRemarkPlugins: [
+    //       {
+    //         resolve: "gatsby-remark-obsidian",
+    //         options: {
+    //           titleToURL: (title) => `/notes/${title.replace(/\\/g, "")}`,
+    //           stripBrackets: true,
+    //         },
+    //       },
+    //     ],
+    //   },
+    // },
     {
       // this plugin makes sure your static files will be served by gatsby,
       // if you have multiple directories, copy this plugin section and specify other directory
