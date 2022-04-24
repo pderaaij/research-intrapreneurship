@@ -96,7 +96,8 @@ An answer to the question:
 - Although the research of @yu2016 and @simmering2003 are primarily focused on newcomers, @simmering2003 suggests that established employees could use the same strategies as newcomers to improve their fit levels.
 
 - @neessen2019 determined autonomy as an important organisational factor contributing to intrapreneurial behaviour. @jong2021 argues that it is critical not to only examine the job autonomy on its own, but to examine the congruence between autonomy and preference for autonomy.
-- Examining the needs-supplies fit of autonomy as such will provide a clearer picture on the effect of autonomy as contributing factor to intrapreneurial behaviour
+- Examining the needs-supplies fit of autonomy as such will provide a clearer picture on the effect of autonomy as contributing factor to intrapreneurial behaviour.
+- @kristof2005 also showed that “in almost every case the complementary form of needs–supplies fit has the greatest impact on “individual attitudes and behavior” (Kristof-Brown et al., 2005, pp. 317 - 318). Which also suggest that in this case an effect on intrapreneurial behaviour will exists.
 
 - As such I hypothesise that a misfit of the needs-supplies regarding autonomy will positively influence intrapreneurial behaviour.
 
