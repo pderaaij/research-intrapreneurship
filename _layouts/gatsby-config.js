@@ -30,7 +30,12 @@ module.exports = {
           {
             resolve: "gatsby-remark-obsidian",
             options: {
-              // titleToURL: (title) => `/notes/${title.replace(/\\/g, "")}`,
+              titleToURL: (title) => {
+                if (/^\d/.test(title)) {
+                  return `/literature-notes/${title.replace(/\\/g, "")}`;
+                }
+                return `/notes/${title.replace(/\\/g, "")}`;
+              },
               stripBrackets: true,
             },
           },
