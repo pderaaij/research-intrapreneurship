@@ -32,6 +32,11 @@ async function generateData(cache, getNode) {
         title.indexOf("|") > -1
           ? title.substr(0, title.indexOf("|")).replace(/\\/g, "")
           : title;
+      title =
+        title.indexOf("#") > -1
+          ? title.substr(0, title.indexOf("#")).replace(/\\/g, "")
+          : title;
+      console.log(title);
       return nodes.find(
         (x) =>
           x.title === title ||
