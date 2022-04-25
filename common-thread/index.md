@@ -1,3 +1,12 @@
+---
+classoption: oneside
+reference-section-title: "Bibliography"
+
+title: "How does autonomy misfit, together with psychological safety in a team, contribute to intrapreneurial behaviour?"
+subtitle: "Rode draad chapter 1 & 2"
+author: "Paul de Raaij"
+---
+
 # Common thread
 
 An answer to the question:
