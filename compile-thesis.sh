@@ -1,5 +1,6 @@
 #!/bin/sh
 pandoc \
+--filter=pandoc-crossref \
 --citeproc \
 --bibliography=intrapreneurship-research.bib \
 --csl=compile-metadata/apa.csl \
