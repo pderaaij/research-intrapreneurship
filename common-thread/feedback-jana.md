@@ -32,7 +32,7 @@ Algemeen
 
   - Indien je dit stuk wel laat staan zal je wel gaan moeten verantwoorden waarom je in je scriptie uiteindelijk focust op NS fit ipv op alle andere concepten die mogelijk zijn binnen de fit context
 
-    2.3
+**2.3**
 
 - [ ] Ik zou dus echt uitleggen wat de 4 soorten situaties van fit en misfit zijn (of 3 waarbij je fit gewoon als 1 ding beschouwt wat logischer is bij een difference score) en ook je literatuur op basis daarvan clusteren. Nu loopt het soms wat dooreen omdat bij beschrijving van die misfit studies je mogelijk appels met peren aan het vergelijken bent. Check paper ook van breach die ik hierboven vermeldde
 - [ ] Algemeen fit onderzoek is trouwens niet enkel met focus op nieuwkomers; Dus je zou dat ook kunnen aanhalen om te onderbouwen dat de tendensen bij nieuwkomers obv fit niet perse anders zijn dan die van mensen die ingewerkt zijn. Er is ook een paper van Edwards waarbij hij de effecten van NS en PE fit met elkaar linkt. Paper met Cable (hij heeft er een op dezelfde data uit 2004 en 2009 – weet niet vanbuiten welke meer relevant is)

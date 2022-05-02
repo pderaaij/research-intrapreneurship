@@ -1,6 +1,6 @@
 # Literature research
 
-## 2.1 What is intrapreneurship
+## 2.1 What is intrapreneurship & intrapreneurial behaviour?
 
 “Intrapreneurship is a process whereby employee(s) recognise and exploit opportunities by being innovative, proactive and by taking risks, in order for the organisation to create new products, processes and services, initiate self-renewal or venture new businesses to enhance the competitiveness and performance of the organisation.” [@neessen2019, p. 7]. In academic literature "intrapreneurship" usually refers to individual workers rather than organisations or boardroom-level decision makers [@deJong2011]. This paper adopts this points of view that intrapreneurship is a bottom-up approach [@deJong2011; @neessen2019]. A common label of intrapreneurship is _corporate entrepreneurship_ [@deJong2011]. In line with @deJong2011 this paper regards corporate entrepreneurship as a top-down process that can be used by business owners and general manages to foster new ventures, innovation, and strategic renewal [@deJong2011].
 
@@ -8,18 +8,16 @@ Intrapreneurship is not an attitude or a behaviour that an employee has, it has 
 
 ![Framework of intrapreneurship by @neessen2019](./thesis/figures/intrapreneurship-framework.png){#fig:intrapreneurship-framework}
 
-- [ ] Let hier ook op mijn comment van eerder ivm verschillende definties en focus op die van De Jong
-- [ ] Ik vind dit stuk persoonlijk relatief kort. Meestal zetten studenten er nog een stukje bij rond antecedenten oid, gewoon om een beetje een beeld te geven van de literatuur en wat er al geweten is. Dit is geen harde eis en hoeft niet perse. Als je het wel doet hoeft het ook niet super lang te zijn. Zorg dat het dan bv. eerder als een soort van intro kan leiden voor de link met PEfit en/of NS fit. Door bv. uit te leggen dat er zowel persoonlijke factoren als organisatiefactoren zijn die relevant zijn voor de ontwikkeling van IB. en dan zou ik 2.2 vooral focussen op PE fit en daar hoeft dan (buiten 1 bindzinnetje als allereerste ofzo) nog niet echt de link met intra gemaakt te worden
-
-## 2.2 Introducing intrapreneurial behaviour & person-environment fit
-
 @deJong2011 describes _intrapreneurial behaviour_ "as the identification and exploitation of opportunities by individual workers that (also) advance the organisation. (p. 4)". Intrapreneurial behaviour is commonly defined by the dimensions of _proactivity_, _innovativeness_, and _risk-taking_ [@neessen2019, @deJong2011, @gawke2019]. Additionally @neessen2019 found _opportunity recognition and exploitation_ and _networking_ to be characteristic dimensions of intrapreneurial behaviour. @gawke2019 depicts this as an entrepreneurial orientation towards intrapreneurship.
 
 As intrapreneurship is a bottom-up approach it can only be achieved if employees display intrapreneurial behaviour. Predicting if an individual will engage in certain human behaviour is a core tenet of the person-environment fit theory [@vanVianen2018]. It researches, and emphasises, the compatibility between workers and their work environment [@kristof1996]. The theory of person-environment fit suggests that individual attitudes, behaviours, and other outcomes result not from the person or environment separately, but from the relationship between the two [@edwards1996].
 
-- [ ] Als je effectief start vanuit PE fit ipv meteen naar NS fit over te gaan dan zou ik hier vooral focussen op wat uitleg geven op wat PE fit exact is, wat fit en misfit is en wat alle verschillende soorten fit zijn. Dat ontbreekt nu allemaal nog wat. Alternatief laat je dit stuk gewoon integraal weg en ga je meteen door naar 2.3
+## 2.2 Person-environment fit perspective
 
-  - Indien je dit stuk wel laat staan zal je wel gaan moeten verantwoorden waarom je in je scriptie uiteindelijk focust op NS fit ipv op alle andere concepten die mogelijk zijn binnen de fit context
+Not all individuals will display the same behaviour, even when they are in the same environment. To find possible reasons for this difference academics use the theory of Person-Environment fit. "Person-Environment fit is generally defined as the compatibility between individuals and their environment [@vanVianen2018, p. 76]". The theory suggests that the attitudes, behaviours, and other outcomes, do not result from the person or environment separately, but rather from the relationship between the two [@jong2021].
+
+@@pe-fit and the types of fits (person-job/person-organisation etc etc)
+@@ needs-supplies and why?
 
 - A needs-supplies fit displays the alignment of the employees needs, desires, or preferences and the supply provided by the job the perform [@kristof2005]
 - The needs-supplies will help us in determining if the NS fit or misfit on the organisational factor of autonomy [@neessen2019] will influence intrapreneurial behaviour.
@@ -52,8 +50,10 @@ Summarising, autonomy is an influencing organisational factor to stimulate intra
 
 ## 2.4 Psychological safety
 
-- The business environment of today accomplishes much work in collaboration [@edmondsonLei2014; @newman2017; @frazier2017]
-- Organisational research has identified psychological safety as an important factor in understanding how people collaborate [@edmondsonLei2014]
+Today's business environment accomplishes much of its work in collaboration [@edmondsonLei2014; @newman2017; @frazier2017]. Rather then individuals at work, multi-disciplined teams are working collectively towards their goals.
+
+Organisational research has identified psyschological safety as an important factor in how people collaborate [@edmondsonLei2014].
+
 - @frazier2017 recognises that psychological safety is a key factor in facilitating the process of learning, collaborating, and employee enagement
 - Psychological safety is the shared belief by members of the team that the team is safe for interpersonal risk-0taking [@edmondson1999; @edmondsonLei2014; @frazier2017; @newman2017]
 - High levels of psychological safety has been linked to higher levels of creative thinking and risk-taking, innovation in R&D teams, process improvements in manufacturing, knowledge creation, and successful implementation of technology [@newman2017]
