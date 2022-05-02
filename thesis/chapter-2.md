@@ -26,28 +26,29 @@ As intrapreneurship is a bottom-up approach it can only be achieved if employees
 
 ## 2.3 The role of autonomy
 
+Labor market conditions are changing. Rapid technological progress, increased employee tenure, a rise in high-skilled job, and request for more flexibility all indicate an increased need for autonomy [@stiglbauer2018]. Companies are advised to grant employees a greater span of control in order to leverage digital technologies and employee's expertise [@mueckeHowDoesJob2019]. As autonomy is becoming a more prominent work characteristic it can be of value to further investigate its relationship with intrapreneurial behaviour.
+
 Autonomy is an influencing factor for intrapreneurial behaviour [@neessen2019]. Giving employees the freedom to design its own work and make decisions results into more intrapreneurial activities and higher levels of _self-efficacy_ [@neessen2019]. On that same note @deJong2015 found that job autonomy leads to higher levels of intrapreneurial behaviour, especially on its innovation and proactivity dimensions.
 
-@@ See the Vitamin Model study for introduction. Importance of job autonomy now and into the future [@stiglbauer2018].
+Research on intrapreneurship and job autonomy exists [e.g. @deJong2015]. Much of existing literature however has focussed on autonomy as something provided by the organisation. Like a component of job design. @jong2021 argues however that it is critical to no only examine job autonomy on its own, but to examine the congruence between autonomy and preference for autonomy. Applying a needs-supplies perspective provides a framework to examine this congruence.
 
-### 2.3.1 When needs & supplies are in balance
+### 2.3.1 When needs & supplies of autonomy are a fit
 
 ### 2.3.2 Needs and supplies are not always aligned
 
-- Generally a fit between person and their environment is desired to reach the optimal outcome, however the field of P-E fit argues for a nuanced perspective.
-- @vanVianen2018 displayed in her in review study that experiencing misfit will lead to adaptation. Depending on the misfit perception, opportunities to repair the misfit, and environmental and individual mitigating factors it might motivate individuals to leave the job or to adapt to the situation.
-- For example @yu2016 discovered that the mismatch between the levels of autonomy desired by an employee and the autonomy provided has been found to lead to higher levels of proactive behaviour at newcomers
-- > This finding originates from the self-regulatory view that argues that newcomer behaviours are highest when there is a misfit between the organisational supply of autonomy and the needs of the individual [@yu2016].
-- On that same note @simmering2003 found that autonomy misfit for an individual leads to higher engagement in employee development. Surprisingly this holds true for individuals with low levels of autonomy, but high levels of autonomy as well [@simmering2003].
-- Although the research of @yu2016 and @simmering2003 are primarily focused on newcomers, @simmering2003 suggests that established employees could use the same strategies as newcomers to improve their fit levels.
+The needs of an employee regarding autonomy is not always matched by organisations. In these cases PE-fit literature speaks of a misfit. Experiencing misfit as an individual will lead to adaptation [@vanVianen2018]. Depending on the misfit perception, opportunities to repair the misfit, and environmental and individual mitigating factors it might motivate individuals to leave the job or adapt to the situation [@vanVianen2018].
 
-- @neessen2019 determined autonomy as an important organisational factor contributing to intrapreneurial behaviour. @jong2021 argues that it is critical not to only examine the job autonomy on its own, but to examine the congruence between autonomy and preference for autonomy.
-- Examining the needs-supplies fit of autonomy as such will provide a clearer picture on the effect of autonomy as contributing factor to intrapreneurial behaviour.
-- @kristof2005 also showed that “in almost every case the complementary form of needs–supplies fit has the greatest impact on “individual attitudes and behavior” (Kristof-Brown et al., 2005, pp. 317 - 318). Which also suggest that in this case an effect on intrapreneurial behaviour will exists.
+@yu2016, for example, discovered that an autonomy misfit leads to higher levels of proactive behaviour at newcomers. On that same note, @simmering2003, found that autonomy misfit leads to higher engagement in employee development.
 
-- As such I hypothesise that a misfit of the needs-supplies regarding autonomy will positively influence intrapreneurial behaviour.
+The exact nature of misfit might yield to different outcomes. Misfit can either due to an excess of supply or due to a deficiency between needs and supplies. Which type of misfit experiences will make a difference on their impact [@lambert2003; @yu2016]. Additionally @lambert2003 showed that not all experienced misfits is of importance for the individual.
+
+In the case of autonomy misfit @yu2016 discovered that a misfit due to a higher supply of autonomy then needed, leads to higher levels of proactive behaviour. Proactive behaviour being one of the key dimensions of intrapreneurial behaviour [@neessen2019].
+
+Summarising, autonomy is an influencing organisational factor to stimulate intrapreneurial behaviour [@neessen2019]. Autonomy misfit has proven to contribute to dimensions of intrapreneurial behaviour. As such I hypothesise that a misfit of the needs-supplies regarding autonomy will positively influence intrapreneurial behaviour.
 
 > Hypothesis 1: Autonomy misfit is positively related to intrapreneurial behaviour
+
+- @kristof2005 also showed that “in almost every case the complementary form of needs–supplies fit has the greatest impact on “individual attitudes and behavior” (Kristof-Brown et al., 2005, pp. 317 - 318). Which also suggest that in this case an effect on intrapreneurial behaviour will exists.
 
 ## 2.4 Psychological safety
 
