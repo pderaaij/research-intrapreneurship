@@ -24,7 +24,15 @@ As intrapreneurship is a bottom-up approach it can only be achieved if employees
 - A needs-supplies fit displays the alignment of the employees needs, desires, or preferences and the supply provided by the job the perform [@kristof2005]
 - The needs-supplies will help us in determining if the NS fit or misfit on the organisational factor of autonomy [@neessen2019] will influence intrapreneurial behaviour.
 
-## 2.3 Autonomy misfit
+## 2.3 The role of autonomy
+
+Autonomy is an influencing factor for intrapreneurial behaviour [@neessen2019]. Giving employees the freedom to design its own work and make decisions results into more intrapreneurial activities and higher levels of _self-efficacy_ [@neessen2019]. On that same note @deJong2015 found that job autonomy leads to higher levels of intrapreneurial behaviour, especially on its innovation and proactivity dimensions.
+
+@@ See the Vitamin Model study for introduction. Importance of job autonomy now and into the future [@stiglbauer2018].
+
+### 2.3.1 When needs & supplies are in balance
+
+### 2.3.2 Needs and supplies are not always aligned
 
 - Generally a fit between person and their environment is desired to reach the optimal outcome, however the field of P-E fit argues for a nuanced perspective.
 - @vanVianen2018 displayed in her in review study that experiencing misfit will lead to adaptation. Depending on the misfit perception, opportunities to repair the misfit, and environmental and individual mitigating factors it might motivate individuals to leave the job or to adapt to the situation.
