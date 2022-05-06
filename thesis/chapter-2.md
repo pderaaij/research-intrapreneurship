@@ -8,19 +8,17 @@ Intrapreneurship is not an attitude or a behaviour that an employee has, it has 
 
 ![Framework of intrapreneurship by @neessen2019](./thesis/figures/intrapreneurship-framework.png){#fig:intrapreneurship-framework}
 
-@deJong2011 describes _intrapreneurial behaviour_ "as the identification and exploitation of opportunities by individual workers that (also) advance the organisation. (p. 4)". Intrapreneurial behaviour is commonly defined by the dimensions of _proactivity_, _innovativeness_, and _risk-taking_ [@neessen2019, @deJong2011, @gawke2019]. Additionally @neessen2019 found _opportunity recognition and exploitation_ and _networking_ to be characteristic dimensions of intrapreneurial behaviour. @gawke2019 depicts this as an entrepreneurial orientation towards intrapreneurship.
+@deJong2011 describes _intrapreneurial behaviour_ "as the identification and exploitation of opportunities by individual workers that (also) advance the organisation. (p. 4)". Intrapreneurial behaviour is commonly defined by the dimensions of _proactivity_, _innovativeness_, and _risk-taking_ [@neessen2019; @deJong2011; @gawke2019]. Additionally @neessen2019 found _opportunity recognition and exploitation_ and _networking_ to be characteristic dimensions of intrapreneurial behaviour. @gawke2019 depicts this as an entrepreneurial orientation towards intrapreneurship.
 
 As intrapreneurship is a bottom-up approach it can only be achieved if employees display intrapreneurial behaviour. Predicting if an individual will engage in certain human behaviour is a core tenet of the person-environment fit theory [@vanVianen2018]. It researches, and emphasises, the compatibility between workers and their work environment [@kristof1996]. The theory of person-environment fit suggests that individual attitudes, behaviours, and other outcomes result not from the person or environment separately, but from the relationship between the two [@edwards1996].
 
 ## 2.2 Person-environment fit perspective
 
-Not all individuals will display the same behaviour, even when they are in the same environment. To find possible reasons for this difference academics use the theory of Person-Environment fit. "Person-Environment fit is generally defined as the compatibility between individuals and their environment [@vanVianen2018, p. 76]". The theory suggests that the attitudes, behaviours, and other outcomes, do not result from the person or environment separately, but rather from the relationship between the two [@jong2021].
+Not all individuals will display the same behaviour, even when they are in the same environment. To find possible reasons for this difference a popular theory is Person-Environment fit theory. "Person-Environment fit is generally defined as the compatibility between individuals and their environment [@vanVianen2018, p. 76]". The theory suggests that the attitudes, behaviours, and other outcomes, do not result from the person or environment separately, but rather from the relationship between the two [@jong2021]. Meaning, if the characteristics of an individual are aligned with those of the environment, it will lead to a certain outcome in behaviour.
 
-@@pe-fit and the types of fits (person-job/person-organisation etc etc)
-@@ needs-supplies and why?
+A wide range of fit concepts exist in the context of work. The most prominent fit concepts are "person-job fit (fit between individual abilities and needs and the demands and supplies of the job), person-organisation fit (fit between individual and organisational values), person-team fit (fit between individual attributes and those of the group), and person-supervisor fit (fit between individual attributes and those of the supervisor)" [@vanVianen2018]. Each of these fit concepts investigate a specific congruence between the person and environment.
 
-- A needs-supplies fit displays the alignment of the employees needs, desires, or preferences and the supply provided by the job the perform [@kristof2005]
-- The needs-supplies will help us in determining if the NS fit or misfit on the organisational factor of autonomy [@neessen2019] will influence intrapreneurial behaviour.
+To answer our main hypothesis in this research the fit concept of needs-supplies is chosen. Needs-supplies fit displays the alignment of the employees needs, desires, or preferences and the supply provided by the job the perform [@kristof2005] It is a fit that belongs to the person-job concept [@vanVianen2018]. The reason for this is twofold: 1) autonomy is typically researched in the context of person-job fit [@vanVianen2018], and 2) needs-supplies fit has the greatest impact on job attitudes [@kristof2005]. By investigating the fit or misfit regarding regarding autonomy needs and supplies will tell us of this affects the attitude towards intrapreneurial behaviour.
 
 ## 2.3 The role of autonomy
 
@@ -46,29 +44,27 @@ Summarising, autonomy is an influencing organisational factor to stimulate intra
 
 > Hypothesis 1: Autonomy misfit is positively related to intrapreneurial behaviour
 
-- @kristof2005 also showed that “in almost every case the complementary form of needs–supplies fit has the greatest impact on “individual attitudes and behavior” (Kristof-Brown et al., 2005, pp. 317 - 318). Which also suggest that in this case an effect on intrapreneurial behaviour will exists.
-
 ## 2.4 Psychological safety
 
-Today's business environment accomplishes much of its work in collaboration [@edmondsonLei2014; @newman2017; @frazier2017]. Rather then individuals at work, multi-disciplined teams are working collectively towards their goals.
+Today's business environment accomplishes much of its work in collaboration [@edmondsonLei2014; @newman2017; @frazier2017]. Rather then individuals at work, multi-disciplined teams are working collectively to accomplish their goals. Product design, patient care, strategy development, and rescue operations are a few examples that call for collaborative work [@edmondsonLei2014]. The field of organisational research has identified psychological safety as an important factor in how people collaborate to achieve a shared outcome [@edmondsonLei2014].
 
-Organisational research has identified psyschological safety as an important factor in how people collaborate [@edmondsonLei2014].
+Psychological safety is the shared belief by members of the team that the team is safe for interpersonal risk-taking [@edmondson1999; @edmondsonLei2014; @frazier2017; @newman2017]. Individuals that feel psychologically safe in a team will be less concerned with the way others might react when introducing a new idea of when voicing a concern. High levels of psychological safety has been linked to higher levels of creative thinking and risk-taking, innovation in R&D teams, process improvements in manufacturing, knowledge creation, and successful implementation of technology [@newman2017]. @frazier2017 recognises that psychological safety is a key factor in facilitating the process of learning, collaborating, and employee engagement.
 
-- @frazier2017 recognises that psychological safety is a key factor in facilitating the process of learning, collaborating, and employee enagement
-- Psychological safety is the shared belief by members of the team that the team is safe for interpersonal risk-0taking [@edmondson1999; @edmondsonLei2014; @frazier2017; @newman2017]
-- High levels of psychological safety has been linked to higher levels of creative thinking and risk-taking, innovation in R&D teams, process improvements in manufacturing, knowledge creation, and successful implementation of technology [@newman2017]
+The performance enabling role of psychological safety has consistently been found in numerous studies [@edmondsonLei2014]. Especially when organisational learning is of importance psychological safety is relevant [@edmondsonLei2014]. Much of today's organisational learning happens between the interactions of interdependent individuals. Individual's concerns about interpersonal risk or consequences could limit the learning behaviours of these individuals. High levels of psychological safety can reduce these concerns and as such contribute to organisational learning.
 
-**Relevance to intrapreneurial behaviour**:
+Psychological safety is both an individual-level and team level construct [@edmondsonLei2014; @frazier2017]. However, @edmondsonLei2014 argues that the group is the appropriate level to measure psychological safety. "Starting with Edmondson (1999), studies have found statistically significant variance in psychological safety between groups within organisations; that is, people working closely together tend to have similar perceptions of psychological safety, which vary across groups within the same organisation. This body of work thereby supports the idea that psychological safety in organisational life can best be considered a phenomenon that lives at the group level. [@edmondsonLei2014]".
 
-- Higher levels of psychological safety enhances risk-taking, information sharing and learning behaviour of members from the team [@edmondson1999; @newman2017]
-- Risk-taking is an intrapreneurial behaviour in the nomological network of @neessen2019
-- The outcomes and characteristics of psychological safety can be expected to have a relation with each other, as such I hypothesise:
+## 2.5 Psychological safety impacting intrapreneurial behaviour
+
+Psychological safety has been found to enhance risk-taking, information sharing and learning behaviour of team members [@edmondson1999; @newman2017].
+
+@@ work in progress
+
+Summarising, psychological safety has been found to effect intrapreneurial behaviour components as described in the framework ([@fig:intrapreneurship-framework]) of @neessen2019. Given the impact on these isolated components I hypothesise that there is a relation between psychological safety and the entire construct of intrapreneurial behaviour.
 
 > Hypothesis 2: Psychological safety is positively related to intrapreneurial behaviour
 
-- Given that higher levels of proactiveness is present in case of a misfit on autonomy level, I hypothesise that higher levels of proactiveness, reached due to psychological safety will positively influence the intrapreneurial behaviour
-
-## 2.5 Autonomy misfit, proactive behaviour & psychological safety
+## 2.6 Autonomy misfit, proactive behaviour & psychological safety
 
 - @yu2016 & @simmering2003 identified that an autonomy misfit leads to higher levels of proactive behaviour.
 - @ashford1996 identified seven key types of change-oriented proactive behaviours:
