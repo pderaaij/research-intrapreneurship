@@ -10,9 +10,6 @@ Intrapreneurship is not an attitude or a behaviour that an employee has, it has 
 
 @deJong2011 describes _intrapreneurial behaviour_ "as the identification and exploitation of opportunities by individual workers that (also) advance the organisation. (p. 4)". Intrapreneurial behaviour is commonly defined by the dimensions of _proactivity_, _innovativeness_, and _risk-taking_ [@neessen2019; @deJong2011; @gawke2019]. Additionally @neessen2019 found _opportunity recognition and exploitation_ and _networking_ to be characteristic dimensions of intrapreneurial behaviour. @gawke2019 depicts this as an entrepreneurial orientation towards intrapreneurship.
 
-@@ > Two streams or approaches to the classification of organizational level entrepreneurship can be identified. The first stream, which can be labeled the entrepreneurial orientation approach, is based on Miller and Friesen’s (1983) categorization of innovative strategy making. Covin and Slevin (1986, 1991) have expanded on this concept, renamed it entrepreneurial posture, and retained three now widely‐accepted characteristics of firm level entrepreneurship: innovativeness, proactiveness and risk taking. Lumpkin and Dess (1996) have named the concept the entrepreneurial orientation and further extended the concept by identifying two additional dimensions: autonomy and competitive aggressiveness. Instead of talking about characteristics of organizational level entrepreneurship and considering entrepreneurial orientation a uni‐dimensional concept, as evident in studies of Covin and Slevin (1986, 1991), Lumpkin and Dess (1996) consider entrepreneurial orientation a multi‐dimensional concept. Knight (1997) also favors this multidimensional concept but has reduced Covin and Slevin’s (1986, 1991) categorization to two dimensions (innovativeness and proactiveness) on the basis of his empirical findings.
-[Access rights validated](https://www-emerald-com.ezproxy.elib10.ub.unimaas.nl/insight/content/doi/10.1108/14626000310461187/full/html#idm45881444076256)
-
 As intrapreneurship is a bottom-up approach it can only be achieved if employees display intrapreneurial behaviour. Predicting if an individual will engage in certain human behaviour is a core tenet of the person-environment fit theory [@vanVianen2018]. It researches, and emphasises, the compatibility between workers and their work environment [@kristof1996]. The theory of person-environment fit suggests that individual attitudes, behaviours, and other outcomes result not from the person or environment separately, but from the relationship between the two [@edwards1996].
 
 ## 2.2 Person-environment fit perspective
@@ -35,6 +32,8 @@ However, @gerards2021 states that the positive relation between autonomy and int
 
 Much of the existing literature researches autonomy from the provisioning aspect of an organisation [e.g. @deJong2015]. @@ check -> As such a large body literature sees the relation thru the lens of job design [see @deJong2015; @rigtering2013; @gawke2019]. Although the organisation can offer autonomy, whether the autonomy will be taken will depend on the individual. Likewise, @jong2021 argues that it is critical to not only examine job autonomy on its own, but to examine the congruence between autonomy and preference for autonomy. The person-environment theory offers a perspective to research this congruence. Seen in simple terms, the needs and supplies of autonomy can be either a fit or a misfit.
 
+Regarding the effects of (mis)fit two opposing views are prevalent. The affective-cognitive based view states that a needs-supplies fit gives rise to positive attitudes, which in turn acts as motivators [@yu2016]. The view of self-regulation holds an opposite perspective. Within this view the core principle of cybernetics is followed that a negative feedback loop is required to get in motion [@edwards1992]. In other words, there has to be a misfit in order to engage in certain behaviour. The research of @yu2016 showed that a misfit of autonomy yields proactive behaviour at an individual, as such support the self-regulatory view.
+
 ### 2.3.1 When needs & supplies of autonomy are a fit
 
 A fit between the autonomy needs and supplies can be viewed from the existing literature that treats autonomy as a job resource or job design perspective. Although the person-environment fit is not directly used in this research, it does display the effects when needs and supplies of autonomy are a fit.
@@ -47,7 +46,7 @@ Nevertheless, the nature of this research discards the desire to have autonomy i
 
 The needs of an employee regarding autonomy is not always matched by organisations. In these cases PE-fit literature speaks of a misfit. Experiencing misfit as an individual will lead to adaptation [@vanVianen2018]. Depending on the misfit perception, opportunities to repair the misfit, and environmental and individual mitigating factors it might motivate individuals to leave the job or adapt to the situation [@vanVianen2018].
 
-Although people have a need to fit their environments [@vanVianen2018], academic literature holds powerful examples of beneficial misfits. For example, in a study that examines autonomy fit and personal development, @simmering2003 found that autonomy misfit is essential to create the need for personal development by the individual. Autonomy misfit for newcomers has shown to lead to higher levels of proactive behaviour [@yu2016].
+Although people have a need to fit their environments [@vanVianen2018], academic literature holds powerful examples of beneficial misfits. For example, in a study that examines autonomy fit and personal development, @simmering2003 found that autonomy misfit is essential to create the need for personal development by the individual. Autonomy misfit for newcomers has shown to lead to higher levels of proactive behaviour [@yu2016]. Providing support for the self-regulatory view of needs-supplies misfit.
 
 The exact nature of misfit might yield to different outcomes. Misfit can either due to an excess of supply or due to a deficiency between needs and supplies. Which type of misfit experiences will make a difference on their impact [@lambert2003; @yu2016; @vanVianen2018]. An excess of misfit will do less harm then a deficient misfit [@vanVianen2018]. Additionally @lambert2003 showed that not all experienced misfits is of importance for the individual.
 
@@ -83,28 +82,30 @@ Summarising, psychological safety has been found to effect components of intrapr
 
 Getting to intrapreneurial outcomes like new products or self-renewal isn't an individual effort, but a team effort. As today's work is mostly accomplished in collaboration [@edmondsonLei2014; @newman2017; @frazier2017], the effects of an individual autonomy misfit can be influenced by others in the collaboration. As individuals work in teams, it's the reaction of those team members to the individual that potentially impacts its attitude to the job. As such, the team can be influential in supporting an individual towards intrapreneurial behaviour. Whether or not the psychological safety in a team influences an individuals intrapreneurial behaviour answers a call for further research by @neessen2019.
 
-### 2.6.1 Getting more then I want: An excess of autonomy misfit
+Moderating effects of psychological safety has been proven extensively in academic literature. In their systematic literature review @newman2017 already summarised that psychological safety weakens the negative relationship between role conceptualisation and achievement orientation, expertise diversity influence the team performance, and the relationship between process innovativeness and profitability. This moderating effect has been found on individual, team, and organisational level. This prior research gives viability to a potentially moderating effect of psychological safety between autonomy (mis)fit and intrapreneurial behaviour.
+
+### 2.6.1 When needs and supplies of fit are unbalanced
 
 An excess of misfit has shown to lead individuals to adapt to the situation. @yu2016 discovered that an excess of misfit lead to higher levels of proactive behaviour by the individual. @ashford1996 identified seven key types of change-oriented proactive behaviours: feedback seeking; information seeking; job change negotiation; positive framing; general socialising; building relationships with the boss; and networking. Especially information seeking and feedback seeking has been found to be influenced by psychological safety [@vanVianen2018; @destobbeleir2020]. Feedback seeking may be beneficial for individuals to cope with the misfit of autonomy [@vanVianen2018]. Teams with high levels of psychological safety ensure that information will be sought within the team, where in teams with low levels of psychological safety information will be sought outside the team [@safdar2017].
 
-- These forms of proactive behaviours all embed a form of risk-taking. It requires confidence and trust to engage in voice behaviour and start to ask for feedback and information.
-- As higher levels of psychological safety reduces the barrier to engage in proactive behaviours I hypothesise that the level of psychological safety will influence the effect of autonomy misfit towards intrapreneurial behaviour
-- Meaning that high levels of autonomy misfit and high levels of psychological safety will lead to higher levels of psychological safety.
-
-Given that an excess of autonomy misfit leads to higher levels of proactivity, proactivity being a key behavioural dimension of intrapreneurship, and acknowledging the existing literature on the influencing effect psychological safety has on proactivity, I hypothesise:
+Following the self-regulatory view, an excess of autonomy will give individuals an impetus to engage in intrapreneurial behaviour. Given that an excess of autonomy misfit leads to higher levels of proactivity, proactivity being a key behavioural dimension of intrapreneurship, and acknowledging the existing literature on the influencing effect psychological safety has on proactivity, I hypothesise:
 
 > Hypothesis 3a: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
 
-### 2.6.2 Getting less then I want: Deficient autonomy misfit
+Additionally, @yu2016 showed that also a deficiency of misfit yields to proactive behaviour, although lower then the case of excess misfit. Clarification for this difference has not been provided by the authors. A possible explanation can be found in the findings of @lambert2003 that deficient misfit leads to greater job dissatisfaction for specific inducements. The dissatisfaction of work has been found to lead to creativity [@zhou2001], Likewise, @vanVianen2018 noted that “Seeking feedback may help individuals to better cope with misfit by putting effort into learning or adjusting to the job demands (p.96).”
+
+@@ check with @vanVianen2018
+
+Third, deficiency and excess misfit can be equally harmful (proposition 3), but the fit studies included in this review reveal that deficiency tends to be more harmful than excess. Moreover, depending on the fit attribute under study, excess can be as beneficial as fit. These findings partly support fit theory, but do not support prospect and regulatory focus theories proposing that loss (i.e., excess misfit on low personal attributes) results in more harmful outcomes than nongain (i.e., deficiency misfit on high personal attributes).
 
 > Hypothesis 3b: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
 
-### 2.6.3 When autonomy fits
+### 2.6.2 When autonomy is a fit
 
-@@ the positive effects of psychological safety -> learning behaviour, information sharing etc. are essential for intrapreneurial behaviour and as such strengthened in case of an autonomy fit.
+Following the job design perspective that autonomy fit leads to more intrapreneurial behaviour [@deJong2015] and better performance [@mueckeHowDoesJob2019], it can be hypothesised that psychological safety will have a positive influence on the intrapreneurial behaviour of members in a team with autonomy fit. Psychological safety has proven to have positive effect on the learning behaviour of teams [@edmondson1999; @edmondsonLei2014; @frazier2017]. Learning behaviour is described by @edmondson1999 as "learning at the group level of analysis as an ongoing process of reflection and action, characterised by asking questions, seeking feedback, experimenting,reflecting on results, and discussing errors or unexpected outcomes of actions (p. 353)". These behaviours are positively related with the performance of the team [@edmondson1999; @edmondsonLei2014; @frazier2017]. @choo2007 found that psychological safety influenced creativity, divergent thinking, risk taking, and motivates engagement in learning, increasing the performance of the team as such.
 
-> Hypothesis 3c: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
+> Hypothesis 3c: Psychological safety strengthens the positive effect of autonomy fit towards intrapreneurial behaviour
 
-## Conceptual model
+The concepts and relationships of this research have been visualised in the research framework ([@fig:research-framework]).
 
-![Conceptual model](./correspondence/2022-03-14-19-30-43.png)
+![Research framework](./correspondence/2022-03-14-19-30-43.png){#fig:research-framework}

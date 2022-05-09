@@ -16,9 +16,9 @@ Algemeen
 
 **1.3**
 
-- [ ] Je kan bij het praktijk deel eventueel iets toevoegen van je sector oid om concreter te maken nog.
-- [ ] De link naar selectie is een goede. Maar organisaties kunnen hopelijk ook iets veranderen. Stel dat je effectief poly’s gaat doen, dan kan je zien of te veel of te weinig autonomie goed of slecht is en/of als er een fit is in het feit dat er weinig of veel autonomie is wat dat doet met mensen. Dat is op zich wel boeiend. Stel dat bv. een te hoge fit aanbieden toch goed is, dan heeft dat niet enkel implicaties voor selectie maar ook voor organisatie design en training.
-- [ ] Academics: het stukje uit je mail hieronder was inzichtvoller en relevanter wat er momenteel in de tekst staat. Denk nog eens heel goed na hoe je aan de literatuur toevoegt, op wiens vragen of theorieën je toevoegt, etc. bv. als je toch met polys werkt dan zou het best kunnen dat je bijdraagt aan het idee dat misfit niet perse slecht hoeft te zijn (zoals Vogel ook) etc.
+- [x] Je kan bij het praktijk deel eventueel iets toevoegen van je sector oid om concreter te maken nog.
+- [x] De link naar selectie is een goede. Maar organisaties kunnen hopelijk ook iets veranderen. Stel dat je effectief poly’s gaat doen, dan kan je zien of te veel of te weinig autonomie goed of slecht is en/of als er een fit is in het feit dat er weinig of veel autonomie is wat dat doet met mensen. Dat is op zich wel boeiend. Stel dat bv. een te hoge fit aanbieden toch goed is, dan heeft dat niet enkel implicaties voor selectie maar ook voor organisatie design en training.
+- [x] Academics: het stukje uit je mail hieronder was inzichtvoller en relevanter wat er momenteel in de tekst staat. Denk nog eens heel goed na hoe je aan de literatuur toevoegt, op wiens vragen of theorieën je toevoegt, etc. bv. als je toch met polys werkt dan zou het best kunnen dat je bijdraagt aan het idee dat misfit niet perse slecht hoeft te zijn (zoals Vogel ook) etc.
 
 **2.1**
 
