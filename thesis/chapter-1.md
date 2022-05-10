@@ -16,13 +16,11 @@ Although people have an innate need to fit to their environment, a perfect fit s
 
 Regarding the topic of job autonomy many perspectives has been researched [@yu2016; @sorlie2022; @simmering2003; @jong2021]. However, no prior research has been done on the topic of autonomy (mis)fit and its influences on intrapreneurial behaviour. A gap in academic literature that this research attempts to fill.
 
-@@ referentie zoeken naar team effect intrapreneurship
+Although intrapreneurial behaviour is often measured on individual level, the act of getting intrapreneurial outcomes is often a team effort. Members of the team have to work and learn collaboratively to achieve the desired outcomes [@edmondsonLei2014]. In times of uncertainty and collaboration, psychological safety has shown to enhance the performance of the team [@edmondsonLei2014]. Psychological safety is a shared belief held by members of a team that the team is safe for interpersonal risk raking [@edmondson1999]. Teams with high levels of psychological safety have shown to take more risk, share more information, seek more feedback, and perform better with regards to innovation, process improvements, knowledge creation, and successful technology implementations [@edmondson1999; @edmondsonLei2014; @frazier2017; @newman2017].
 
-- [ ] Je mist hier het brugje dat intrapreneurship vaak een team effort is en dat het vaak nodig is in het proces om bv met verschillende mensen te werken, etc. en dan pas moet je naar psy safe gaan. Want nu is dat wat een te grote sprong opnieuw
+Both autonomy fit and misfit has shown to influence dimensions of intrapreneurial behaviour. @yu2016, for example, showed that autonomy misfit leads to higher levels of practivity. @destobbeleir2020 found a positive effect between psychological safety and feedback seeking. In case of autonomy fit, psychological safety has influenced creativity, risk taking, and motivation to engage in learning [@choo2007]. Given these findings, psychological safety might influence the effects of autonomy (mis)fit in relation with intrapreneurial behaviour.
 
-- Innovation and process improvements have been found at teams that have high levels of psychological safety [@edmondson1999; @edmondsonLei2014; @newman2017].
-- Psychological safety is a shared belief held by members of a team that the team is safe for interpersonal risk taking [@edmondson1999].
-- If a team feels safe, they will share more information and as such learn more then teams with lower levels of psychological safety [@edmondson1999; @newman2017].
+Summarising, autonomy has been researched as a contributing factor to intrapreneurship in various researches. However, none of these take into the personal needs to autonomy in relation to what is supplied by the organisation. As perfect fit seldomly exists [@vanVianen2018], it is interesting to research what the effects are of autonomy (mis)fit on intrapreneurial behaviour. Potentially psychological safety can be found to moderate these effects.
 
 ## 1.3 Academic & practical relevance
 
@@ -30,7 +28,7 @@ In the current academic literature not much is known about the relation and effe
 
 ### 1.3.1 Academic relevance
 
-The contribution of this paper to the academics is threefold. First, a recurring question in the field of intrapreneurship is the influence of teams on intrapreneurial behaviour [@neessen2019; @deJong2015]. Secondly, @vanVianen2018 raised the question: "which environmental and individual factors mitigate experienced misfits?". This paper aims to shed a light on the question if psychological safety moderates an experienced misfit of autonomy. Lastly, not much is known about the relationship of the trilogy between autonomy misfit, psychological safety, and intrapreneurial behaviour.
+The contribution of this paper to the academics is twofold. First, a recurring question in the field of intrapreneurship is the influence of teams on intrapreneurial behaviour [@neessen2019; @deJong2015]. The answers of this research contribute to the field by displaying if and how the team affects intrapreneurial behaviour of an individual. Specifically, if a psychological safe team environment acts as a catalyst or as a coping mechanism in the case of autonomy (mis)fit for the individual. Secondly, this also answers a question raised by @vanVianen2018: "which environmental and individual factors mitigate experienced misfits?". In the case of this research the question is if psychological safety influences the experience autonomy misfit.
 
 ### 1.3.2 Practical relevance
 
@@ -40,4 +38,4 @@ Besides providing insights to the attraction and selection of employees, this re
 
 ## 1.4 Method of research
 
-Following a quantitative study this research will find an answer on its hypothesis....
+A quantitative study will be used to collect the data for this study. This data will be analysed using regression analysis.
