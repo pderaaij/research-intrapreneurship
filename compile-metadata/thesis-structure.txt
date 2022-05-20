@@ -1,3 +1,6 @@
 compile-metadata/metadata.md
 thesis/chapter-1.md
 thesis/chapter-2.md
+thesis/chapter-3.md
+compile-metadata/references.md
+thesis/appendix-measures.md
