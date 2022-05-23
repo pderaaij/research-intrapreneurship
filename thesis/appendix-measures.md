@@ -1,6 +1,6 @@
 # Appendix A: Measures
 
-## Appendix A1: Intrapreneurial behaviour [@deJong2011]
+## Intrapreneurial behaviour [@deJong2011]
 
 | Code | Question (1-7 Likert scale)                                                                            |
 | ---- | ------------------------------------------------------------------------------------------------------ |
@@ -9,12 +9,20 @@
 | IBI3 | ...promotes and champions ideas to others                                                              |
 | IBP1 | ...identifies long term opportunities and threats for the company                                      |
 | IBP2 | ...is known as a successful issue seller                                                               |
-| IBP3 | …puts effort in pursuing new business opportunities                                                    |
+| IBP3 | ...puts effort in pursuing new business opportunities                                                  |
 | IBR1 | ...takes risks in his/her job                                                                          |
 | IBR2 | ...when large interests are at stake, goes for the 'big win' even when things could go seriously wrong |
 | IBR3 | ...first acts and then asks for approval, even if he/she knows that would annoy other people           |
 
-## Appendix A2: Autonomy (misfit) [@spreitzer1995]
+## Daily intrapreneurial behaviour
+
+| Code | Question (1-7 Likert scale)                                                                  | Dutch translation                                                                                                |
+| ---- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| IBI3 | ...promotes and champions ideas to others                                                    | ...ideeën promoot en verdedigt bij anderen                                                                       |
+| IBP3 | ...puts effort in pursuing new business opportunities                                        | ...zich inspant om nieuwe zakelijke kansen na te streven                                                         |
+| IBR3 | ...first acts and then asks for approval, even if he/she knows that would annoy other people | ...eerst handelt en nadien goedkeuring vraagt, zelfs als hij/zij weet dat andere mensen dat zou kunnen irriteren |
+
+## Autonomy (misfit) [@spreitzer1995]
 
 | Code | Question (1-7 Likert scale)                                       |
 | ---- | ----------------------------------------------------------------- |
@@ -22,7 +30,7 @@
 | AUT2 | The opportunity to decide on my own how to go about doing my work |
 | AUT3 | The opportunity for independence and freedom in how I do my job   |
 
-## Appendix A3: Psychological safety [@edmondson1999]
+## Psychological safety [@edmondson1999]
 
 | Code    | Question (1-7 Likert scale)                                                            |
 | ------- | -------------------------------------------------------------------------------------- |
