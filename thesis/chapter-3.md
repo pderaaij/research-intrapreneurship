@@ -32,6 +32,12 @@ To determine the (mis)fit of autonomy for an individual the construct of [@sprei
 
 Psychological safety is measured via the well-proven construct of @edmondson1999. Using a 7-point Likert scale (1= very inaccurate, 7 = very accurate) the participants need to answer 7 questions. Example questions are "Members of this team are able to bring up problems and tough issues" and "Working with members of this team, my unique skills and talents are value and utilised". The full list of questions is available in appendix A.
 
+### 3.3.4 Control variables
+
+Research of @mahmoud2020 shows a relation between an individual's personality and intrapreneurial behaviour. In its study the Big 5 traits conscientiousness, disagreeableness and neuroticism are related to intrapreneurial behaviour of individuals. The two remaining traits, extraversion and openness to experience did not revealed any significant impact. Nevertheless, the personality of an individual has an effect towards its attitude towards intrapreneurial behaviour. To test our hypothesis and prevent confounding results the personality scale of [@rammstedt2007] is added to the survey to control for personality.
+
+Additionally the tenure of the team member at the organisation will be used as control in the analysis. As newcomers to an organisation tend to display socialisation behaviour [@yu2016], and as such additional proactivity, the tenure is used to correct for this period of time.
+
 ## 3.4 Data analysis
 
 The analysis of data will be done via the program RStudio and the R package lavaan. This package enables latent variable modelling and provides a large variety of multivariate statistical models. Analysing and discovering relations and effects between the variables will be done utilising structural equation modeling (SEM). SEM allows to test and evaluate multivariate causal relationships.
