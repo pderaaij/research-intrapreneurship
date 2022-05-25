@@ -7,6 +7,7 @@ pandoc \
 $(cat compile-metadata/thesis-structure.txt) \
 --toc \
 --top-level-division=chapter \
+-H compile-metadata/quote.pandoc \
 -o report/thesis.pdf
 
 open report/thesis.pdf

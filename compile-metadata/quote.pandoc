@@ -1,0 +1,4 @@
+\usepackage{tcolorbox}
+\newtcolorbox{hypothesis}{colback=gray!5!white, colframe=gray!75!black, boxrule=0.2pt,}
+% redefine the 'quote' environment to use this 'hypothesis' environment
+\renewenvironment{quote}{\begin{hypothesis}}{\end{hypothesis}}
