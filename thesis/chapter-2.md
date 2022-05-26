@@ -1,4 +1,6 @@
-# Literature research
+# 2. Literature research
+
+The theoretical framework of this study are centred around the key concepts discussed in the problem statement. The concepts are further detailed and explained using literature study. A visual model of this study can be seen in [@fig:research-framework].
 
 ## 2.1 What is intrapreneurship & intrapreneurial behaviour?
 
@@ -26,13 +28,13 @@ Key assumption of person-environment fit theory is that people have an innate ne
 
 To answer the main hypothesis in this research the fit concept of needs-supplies is chosen. Needs-supplies fit displays the alignment of the employees needs, desires, or preferences and the supply provided by the job they perform [@kristof2005] The reason for this is twofold: 1) autonomy is typically researched in the context of person-job fit [@vanVianen2018], and 2) needs-supplies fit has the greatest impact on job attitudes [@kristof2005]. Regarding the effects of (mis)fit two opposing views are prevalent. The affective-consistency based view states that a needs-supplies fit gives rise to positive attitudes, which in turn acts as motivators [@yu2016]. The view of self-regulation holds an opposite perspective. Within this view the core principle of cybernetics is followed that a negative feedback loop is required to get in motion [@edwards1992]. In other words, there has to be a misfit in order to engage in certain behaviour. The research of @yu2016 showed that a misfit of autonomy yields proactive behaviour at an individual, supporting the self-regulatory view.
 
-### 2.2.1 @@ The affective-consistency based view
+### 2.2.1 The affective-consistency based view
 
 Prevalent idea in the affective-cognitive based view is that a needs-supplies fit is required in order to be motivated [@yu2016]. The view posits that when a person experience positive work-based emotions, the person would be inclined to adjust or perceive aspect so that a person-environment fit exists. Likewise, negative emotions would lead a person to be inclined that a misfit exists [@yu2009]. To illustrate with an example, when an individual has had a good period of work with the flexibility to schedule its own day and make own decision, this person would like perceive a fit of autonomy, For an individual that has been told what to do for a period of time, and haven't been allowed to make its own decisions while being custom to it, a misfit is most likely to be perceived.
 
 Many researches has implicitly or explicitly researched this affective-consistency based view. A fit between the autonomy needs and supplies can be viewed from the existing literature that treats autonomy as a job resource or job design perspective. Although the person-environment fit is not directly used in this research, it does display an underlying assumption that providing autonomy will lead to positive work experiences and as such enhance the perceived fit.
 
-@deJong2015 found that job autonomy was directly related to the intrapreneurial dimensions of innovativeness and proactiveness. Job autonomy in this research made a difference towards entrepreneurial behaviour. Job performance is also affected by job autonomy. @mueckeHowDoesJob2019 found that job autonomy leads to better performance as it enhance work motivation and reduces mental strain. In conjunction with high-quality leader-member exchange, job autonomy strengthens the effect of this exchange on creative work. Summarising, job autonomy has been found to have positive outcomes on a variety of perspectives. Yet, underlying in all these positive outcomes is a fit between the autonomy needs and supplies. Meaning, as an individual when I get the right level of autonomy I will show higher levels of intrapreneurial behaviour, compared to those who feel they lack of have too much of autonomy.
+@deJong2015 found that job autonomy was directly related to the intrapreneurial dimensions of innovativeness and proactiveness. Job autonomy in this research made a difference towards entrepreneurial behaviour. Job performance is also affected by job autonomy. @mueckeHowDoesJob2019 found that job autonomy leads to better performance as it enhance work motivation and reduces mental strain. In conjunction with high-quality leader-member exchange, job autonomy strengthens the effect of this exchange on creative work. Summarising, job autonomy has been found to have positive outcomes on a variety of perspectives. Yet, underlying in all these positive outcomes is a fit between the autonomy needs and supplies. Meaning, as an individual when I get the right level of autonomy I will show higher levels of intrapreneurial behaviour, compared to those who feel they either lack or have too much autonomy.
 
 > Hypothesis 1a: A perceived needs-supplies fit on autonomy will positively effect intrapreneurial behaviour
 
@@ -89,24 +91,30 @@ Getting to intrapreneurial outcomes like new products or self-renewal isn't an i
 
 Moderating effects of psychological safety has been proven extensively in academic literature. In their systematic literature review @newman2017 already summarised that psychological safety weakens the negative relationship between role conceptualisation and achievement orientation, expertise diversity influence the team performance, and the relationship between process innovativeness and profitability. This moderating effect has been found on individual, team, and organisational level. This prior research gives viability to a potentially moderating effect of psychological safety between autonomy (mis)fit and intrapreneurial behaviour.
 
-### 2.5.1 When needs and supplies of fit are unbalanced
+### 2.5.1 Psychological safety in the affective-consistency based view
+
+Following the job design perspective that autonomy fit leads to more intrapreneurial behaviour [@deJong2015] and better performance [@mueckeHowDoesJob2019], it can be hypothesised that psychological safety will have a positive influence on the intrapreneurial behaviour of members in a team with autonomy fit. Psychological safety has proven to have positive effect on the learning behaviour of teams [@edmondson1999; @edmondsonLei2014; @frazier2017]. Learning behaviour is described by @edmondson1999 as "learning at the group level of analysis as an ongoing process of reflection and action, characterised by asking questions, seeking feedback, experimenting,reflecting on results, and discussing errors or unexpected outcomes of actions". These behaviours are positively related with the performance of the team [@edmondson1999; @edmondsonLei2014; @frazier2017]. @choo2007 found that psychological safety influenced creativity, divergent thinking, risk taking, and motivates engagement in learning, increasing the performance of the team as such. Additionally, @frazier2017, found that work design characteristics (including autonomy) positively influence psychological safety.
+
+> Hypothesis 4a: Psychological safety strengthens the positive effect of autonomy fit towards intrapreneurial behaviour
+
+The premise of the affective-consistency based view is that positive work experience lead to perceived fit by the individual [@yu2009]. Consequently, it is likely that a psychological safe team would lead to positive work experiences. Resulting into a team of which it members perceive a needs-supplies fit on autonomy. Following that logic it can be hypothesised that according to the affective-consistency based view psychological safety would not moderate the negative effect of autonomy misfit. Contributing to that hypothesis is the expectation of @newman2017 that autonomy will have a negative influence on team learning and performance for teams with high autonomy.
+
+> Hypothesis 4b: Psychological safety does not influence the negative effect of autonomy misfit towards intrapreneurial behaviour
+
+### 2.5.2 Psychological safety in the self-regulatory based view
+
+A negative experience is required in the self-regulatory view in order to get individuals in motion. Proponents of this view argue that needs-supplies misfit is required to ignite the negative feedback loop. Consequently, fit will not trigger any feedback loop and people will not act differently. As such, the author hypothesise that psychological safety will not influence the effect of autonomy fit in the self-regulatory based view.
+
+> Hypothesis 4c: Psychological safety does not influence the effect of autonomy fit on intrapreneurial behaviour
 
 An excess of misfit has shown to lead individuals to adapt to the situation. @yu2016 discovered that an excess of misfit lead to higher levels of proactive behaviour by the individual. @ashford1996 identified seven key types of change-oriented proactive behaviours: feedback seeking; information seeking; job change negotiation; positive framing; general socialising; building relationships with the boss; and networking. Especially information seeking and feedback seeking has been found to be influenced by psychological safety [@vanVianen2018; @deStobbeleir2020]. Feedback seeking may be beneficial for individuals to cope with the misfit of autonomy [@vanVianen2018]. Teams with high levels of psychological safety ensure that information will be sought within the team, where in teams with low levels of psychological safety information will be sought outside the team [@safdar2017; @deStobbeleir2020].
 
 Following the self-regulatory view, an excess of autonomy will give individuals an impetus to engage in intrapreneurial behaviour. Given that an excess of autonomy misfit leads to higher levels of proactivity, proactivity being a key behavioural dimension of intrapreneurship, and acknowledging the existing literature on the influencing effect psychological safety has on proactivity, I hypothesise:
 
-> Hypothesis 4a: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
+> Hypothesis 4d: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
 
 Additionally, @yu2016 showed that also a deficiency of misfit yields to proactive behaviour, although lower then the case of excess misfit. Clarification for this difference has not been provided by the authors. A possible explanation can be found in the findings of @lambert2003 that deficient misfit leads to greater job dissatisfaction for specific inducements. The dissatisfaction of work has been found to lead to creativity [@zhou2001], Likewise, @vanVianen2018 noted that “Seeking feedback may help individuals to better cope with misfit by putting effort into learning or adjusting to the job demands.”
 
-> Hypothesis 4b: Psychological safety strengthens the positive effect of an excess autonomy misfit towards intrapreneurial behaviour
+> Hypothesis 4e: Psychological safety strengthens the positive effect of a deficient autonomy misfit towards intrapreneurial behaviour
 
-### 2.5.2 When autonomy is a fit
-
-Following the job design perspective that autonomy fit leads to more intrapreneurial behaviour [@deJong2015] and better performance [@mueckeHowDoesJob2019], it can be hypothesised that psychological safety will have a positive influence on the intrapreneurial behaviour of members in a team with autonomy fit. Psychological safety has proven to have positive effect on the learning behaviour of teams [@edmondson1999; @edmondsonLei2014; @frazier2017]. Learning behaviour is described by @edmondson1999 as "learning at the group level of analysis as an ongoing process of reflection and action, characterised by asking questions, seeking feedback, experimenting,reflecting on results, and discussing errors or unexpected outcomes of actions". These behaviours are positively related with the performance of the team [@edmondson1999; @edmondsonLei2014; @frazier2017]. @choo2007 found that psychological safety influenced creativity, divergent thinking, risk taking, and motivates engagement in learning, increasing the performance of the team as such. Additionally, @frazier2017, found that work design characteristics (including autonomy) positively influence psychological safety.
-
-> Hypothesis 4c: Psychological safety strengthens the positive effect of autonomy fit towards intrapreneurial behaviour
-
-The concepts and relationships of this research have been visualised in the research framework ([@fig:research-framework]).
-
-![Research framework](./correspondence/2022-03-14-19-30-43.png){#fig:research-framework}
+![Research framework](./thesis/figures/conceptual-model.jpg){#fig:research-framework}
