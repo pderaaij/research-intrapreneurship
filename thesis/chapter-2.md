@@ -53,7 +53,7 @@ Following the self-regulatory view a perceived misfit of autonomy is required to
 The exact nature of misfit might yield to different outcomes. Misfit can either be an excess of supply or be a deficiency of what the individual needs. An individual can be affected by a lack of autonomy (deficiency) or be troubled due to an oversupply of autonomy (excess).
 Which type of misfit is experienced will make a difference on their impact. Additionally @lambert2003 showed that not all experienced misfits is of importance for the individual. Meaning, that although there is a misfit, it does not have a consequence on behaviour, attitudes or outcome.
 
-Various studies argued a linear relationship between the deficiency of autonomy and its impact on behaviour. @stiglbauer2018 showed that deficient misfit had a linear effect on well-being, meaning that any increase from a deficient misfit to fit leads to an equal improvement on well-being. Additionally the research showed that slight deficiency misfit actually foster employees growth and well-being, confirming the self-regulatory view.
+Various studies argued a linear relationship between the deficiency of autonomy and its impact on behaviour. @stiglbauer2018 showed that deficient misfit had a linear effect on well-being, meaning that any increase from a deficient misfit to fit leads to an equal improvement on well-being. Additionally the research showed that slight deficiency misfit actually foster employees growth and well-being, confirming the self-regulatory view. In a study of employee's online sharing of knowledge, the authors found a linear effect on job autonomy [@pee2017].
 
 > Hypothesis 2b: The relationship between a deficiency of autonomy misfit and intrapreneurial behaviour (P > E) is roughly linear
 

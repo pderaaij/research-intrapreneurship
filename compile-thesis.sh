@@ -5,9 +5,7 @@ pandoc \
 --bibliography=intrapreneurship-research.bib \
 --csl=compile-metadata/apa.csl \
 $(cat compile-metadata/thesis-structure.txt) \
---toc \
---top-level-division=chapter \
--H compile-metadata/quote.pandoc \
+--template=eisvogel \
 -o report/thesis.pdf
 
 open report/thesis.pdf
