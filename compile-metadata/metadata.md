@@ -12,7 +12,12 @@ fontfamilyoptions:
   - default
   - defaultsans
 
+header-includes: \usepackage{rotating}
+
 title: "Allow me to be an intrapreneur."
 subtitle: "How does autonomy misfit, together with psychological safety in a team, contribute to intrapreneurial behaviour?"
 author: "Paul de Raaij"
 ---
+
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}

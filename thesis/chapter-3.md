@@ -2,7 +2,7 @@
 
 ## 3.1 Research design
 
-A descriptive research design is being used for this study. Collecting the data will be done utilising diary studies. Two primary reasons lead to the practice of using diary studies. First of all, diary studies are helpful to collect data on working environment characteristics that are subject to fluctuations [@bakker2014]. Secondly, using diary studies help to prevent common rater bias, a pronounced effect in PE-fit studies [@kristof2005]. Common rater bias are conscious or unconscious tendencies that affect supplied ratings. By using a diary study, and thus collecting responses on multiple days this bias can be prevented. The developed hypothesis are concerned about the relationships of fluctuating states and are typical research questions to be answered by a diary study [@ohly2010].
+A descriptive research design is being used for this study. Collecting the data will be done utilising diary studies. Two primary reasons lead to the practice of using diary studies. First of all, diary studies are helpful to collect data on working environment characteristics that are subject to fluctuations [@bakker2014]. Secondly, using diary studies help to prevent common rater bias, a pronounced effect in PE-fit studies [@kristof2005]. Common rater bias are conscious or unconscious tendencies that affect supplied ratings. By using a diary study, and thus collecting responses on multiple days, this bias can be prevented. The developed hypothesis are concerned about the relationships of fluctuating states and are typical research questions to be answered by a diary study [@ohly2010].
 
 As psychological safety is primarily a team construct [@edmondson1999] and getting to intrapreneurial outcomes is a team effort, the research design is focused on team behaviour as well. Teams are asked to collect data during a sprint. Sprints are a fixed period of time in which a teams tries to fulfil their commitments to work items, promised at the start of the sprint. The concept of sprints are part of Scrum, an agile methodology of work. Typically, sprints last for two weeks. When a sprint starts for the team, the data collection period starts as well.
 
@@ -41,6 +41,18 @@ Additionally the tenure of the team member at the organisation will be used as c
 ## 3.4 Data analysis
 
 The analysis of data will be done via the program RStudio and the R package lavaan. This package enables latent variable modelling and provides a large variety of multivariate statistical models. Analysing and discovering relations and effects between the variables will be done utilising structural equation modeling (SEM). SEM allows to test and evaluate multivariate causal relationships.
+
+@@ Write about polynomial and SRA
+
+> In order to test the effects of chronotype team (a)synchrony on our outcomes, we used polynomial regression equations (Edwards, 1994). While, to our knowledge, this analytical technique has not yet been used in sleep research, it is habitually used to study the person-environment fit (e.g., Edwards & Cable, 2009; Kristof-Brown et al., 2005), which is the consistency that individuals experience between their personal values and those of their team or organization as they allow to study both consistency and inconsistency in greater detail. Polynomial regression equations allow three-dimensional investigation of having a team with a similar chronotype to oneself (regardless of whether all individuals are early birds or night owls), as well as increasing discrepancies between the chronotype of respondents and their team.
+
+@@ To further test the contradicting findings polynomial regression analysis [@edwards1993; @shanock2010]. This analytical technique has been used recurrently in person-environment fit studies (e.g. [@edwards2009; @naus2007; @yu2016; @vogel2016; @kristof2005]). Predominantly interesting is that polynomial regression equations allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using the equation [-@eq:unmoderated_poly], where N = individual autonomy needs and S = organisational autonomy supplied.
+
+$$
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NxS + b_5S^2
+$$
+
+{#eq:unmoderated_poly}
 
 ## 3.5 Methodological issues
 
