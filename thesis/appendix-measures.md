@@ -24,11 +24,23 @@
 
 ## Autonomy (misfit) [@spreitzer1995]
 
-| Code&nbsp;&nbsp;&nbsp; | Question (1-7 Likert scale)                                       | Dutch translation                                                                  |
-| ---------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| AUT1                   | The opportunity to determine how I do my job                      | Ik heb de mogelijkheid om te bepalen hoe ik mijn baan doe.                         |
-| AUT2                   | The opportunity to decide on my own how to go about doing my work | Ik heb de kans om te beslissen hoe ik mijn eigen werk uitvoer.                     |
-| AUT3                   | The opportunity for independence and freedom in how I do my job   | Ik heb de mogelijkheid om onafhankelijk en vrij te beslissen hoe ik mijn baan doe. |
+@@ Translate properly!
+
+**Questions for the need**
+
+| Code&nbsp;&nbsp;&nbsp; | Question (1-7 Likert scale)                                                                                   | Dutch translation                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| AUT1                   | Today, I found it important to have significant autonomy in determining how I do my job.                      | Ik heb de mogelijkheid om te bepalen hoe ik mijn baan doe.     |
+| AUT2                   | Today, I found it important to decide on my own how to go about doing my work.                                | Ik heb de kans om te beslissen hoe ik mijn eigen werk uitvoer. |
+| AUT3                   | Today, I found it important to have considerable opportunity for independence and freedom in how I do my job. |
+
+**Questions for the supply**
+
+| Code&nbsp;&nbsp;&nbsp; | Question (1-7 Likert scale)                                                            | Dutch translation                                                                  |
+| ---------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| AUT1                   | Today, I had significant autonomy in determining how I do my job.                      | Ik heb de mogelijkheid om te bepalen hoe ik mijn baan doe.                         |
+| AUT2                   | Today, I could decide on my own how to go about doing my work.                         | Ik heb de kans om te beslissen hoe ik mijn eigen werk uitvoer.                     |
+| AUT3                   | Today, I had considerable opportunity for independence and freedom in how I do my job. | Ik heb de mogelijkheid om onafhankelijk en vrij te beslissen hoe ik mijn baan doe. |
 
 ## Psychological safety [@edmondson1999]
 
