@@ -69,8 +69,6 @@ The construct of psychological safety has an $\alpha$ of .67, which is doubtful.
 
 @@ dependent on answer Jana
 
-Research of @mahmoud2020 shows a relation between an individual's personality and intrapreneurial behaviour. In its study the Big 5 traits conscientiousness, disagreeableness and neuroticism are related to intrapreneurial behaviour of individuals. The two remaining traits, extraversion and openness to experience did not revealed any significant impact. Nevertheless, the personality of an individual has an effect towards its attitude towards intrapreneurial behaviour. To test our hypothesis and prevent confounding results the personality scale of [@rammstedt2007] is added to the survey to control for personality.
-
 Additionally the tenure of the team member at the organisation will be used as control in the analysis. As newcomers to an organisation tend to display socialisation behaviour [@yu2016], and as such additional proactivity, the tenure is used to correct for this period of time.
 
 ## 3.4 Data analysis
@@ -79,24 +77,29 @@ The analysis of data is done via the program 'RStudio' and the R packages 'lavaa
 
 The reliability of the constructs in the survey is tested by calculating Cronbach's alpha ($\alpha$). The internal consistency is deemed valid enough at a score of .7 or higher.
 
-The analysis of relations and effect between the variables is done by polynomial regression equations [@edwards1994]. Polynomial regression analysis allows researchers to the effects of two predictor variables in relationship with an outcome [@shanock2010]. As an analytical technique it is often used to study person-environment fit (e.g. @edwards2009, @kristof2005, @yu2016). Predominantly interesting is that polynomial regression equations allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using the equation [-@eq:unmoderated_poly], where N = individual autonomy needs and S = organisational autonomy supplied.
+The analysis of relations and effect between the variables is done by polynomial regression equations [@edwards1993]. Polynomial regression analysis allows researchers to the effects of two predictor variables in relationship with an outcome [@shanock2010]. As an analytical technique it is often used to study person-environment fit (e.g. @edwards2009, @kristof2005, @yu2016). Predominantly interesting is that polynomial regression equations allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using the equation [-@eq:unmoderated_poly], where N = individual autonomy needs and S = organisational autonomy supplied.
 
 $$
-Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NxS + b_5S^2
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2
 $$ {#eq:unmoderated_poly}
 
 
-For this research the emphasis is not only on the interaction between needs and supplies on intrapreneurial behaviour, but also to assess a potential moderating effect of psychological safety. To test this effect, psychological safety needs to be added to the main model and interaction. This is done by multiplying each factor in our model, as done priorly by @vogel2016. The equation including moderating is shown in equation [-@eq:moderated_poly], where PS being psychological safety.
+For this research the emphasis is not only on the interaction between needs and supplies on intrapreneurial behaviour, but also to assess a potential moderating effect of psychological safety. To test this effect, psychological safety needs to be added to the main model and interaction. This is done by multiplying each factor in our model, as done priorly by @vogel2016. The equation including moderating is shown in equation [-@eq:moderated_poly], where PS being psychological safety. Before multiplication the values of psychological safety were standardised to a mean of 0 and a standard deviation of 1.
+
+
 
 
 $$
 
-Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NxS + b_5S^2 + b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_10PSxNxS + b_11PSxS^2
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_10PSxNS + b_11PSxS^2
 
 $$
 {#eq:moderated_poly}
 
-@@ The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings.
+
+
+
+@@ The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. Computation for the slope and curvature of the surface, across low and high levels of psychological safety, were compute by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
 
 
 ### 3.4.1 Dataset preparation

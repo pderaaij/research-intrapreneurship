@@ -6,6 +6,8 @@ compile-metadata/forced-newpage.md
 thesis/chapter-3.md
 compile-metadata/forced-newpage.md
 thesis/chapter-4.md
+compile-metadata/forced-newpage.md
+thesis/chapter-5.md
 compile-metadata/references.md
 compile-metadata/forced-newpage.md
 thesis/appendix-measures.md
