@@ -71,9 +71,9 @@ The internal consistency of the construct psychological safety has an $\alpha$ o
 
 ### 3.3.4 Control variables
 
-Education is added as a control variable to the T0 survey. @@
+Education is added as a control variable to the T0 survey. The meta-review study of @neessen2019 found that intrapreneurs have a higher educational level in comparison to other employees. Educational level is asked as "Which is your highest earned education?". Possible answers were: high school; bachelor; master; doctorate; other.
 
-The other control variable is whether or not the current job is the first job for the respondent. @@
+Prior experiences has proven to improve the recognition of opportunities [@neessen2019]. To prevent confounding results a control variable of first job is added.
 
 ## 3.4 Data analysis
 
