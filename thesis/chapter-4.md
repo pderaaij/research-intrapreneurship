@@ -21,16 +21,16 @@ For our control variables only a significant relation between psychological safe
 \newpage
 \footnotesize
 
-| Variables                     | Mean | SD   | 1        | 2        | 3     | 4          | 5     | 6   |
-| ----------------------------- | ---- | ---- | -------- | -------- | ----- | ---------- | ----- | --- |
-| _Study variables_             |      |      |          |          |       |            |       |     |
-| 1\. Autonomy desired          | 5.12 | 1.44 | \-       |          |       |            |       |     |
-| 2\. Autonomy perceived        | 5.74 | 1.15 | .43      | \-       |       |            |       |     |
-| 3\. Intrapreneurial behaviour | 3.27 | 1.35 | .15 \*\* | \-.11 \* | \-    |            |       |     |
-| 4\. Psychological safety      | 5.49 | .49  | .08      | .14 \*   | .02   | \-         |       |     |
-| _Control variables_           |      |      |          |          |       |            |       |     |
-| 5\. Education                 | 4.4  | .91  | .09      | .08      | 0     | \-.19 \*\* | \-    |     |
-| 6\. First job                 | 1.88 | .33  | .07      | .04      | \-.12 | .13        | \-.07 | \-  |
+| Variables                            | Mean | SD   | 1        | 2        | 3     | 4          | 5     | 6   |
+| ------------------------------------ | ---- | ---- | -------- | -------- | ----- | ---------- | ----- | --- |
+| _Study variables_                    |      |      |          |          |       |            |       |     |
+| 1\. Individual autonomy needs        | 5.12 | 1.44 | \-       |          |       |            |       |     |
+| 2\. Organisational autonomy supplied | 5.74 | 1.15 | .43      | \-       |       |            |       |     |
+| 3\. Intrapreneurial behaviour        | 3.27 | 1.35 | .15 \*\* | \-.11 \* | \-    |            |       |     |
+| 4\. Psychological safety             | 5.49 | .49  | .08      | .14 \*   | .02   | \-         |       |     |
+| _Control variables_                  |      |      |          |          |       |            |       |     |
+| 5\. Education                        | 4.4  | .91  | .09      | .08      | 0     | \-.19 \*\* | \-    |     |
+| 6\. First job                        | 1.88 | .33  | .07      | .04      | \-.12 | .13        | \-.07 | \-  |
 
 : Means, Standard Deviations, and Correlations among the Study variables {#tbl:descriptives}
 
@@ -68,7 +68,7 @@ Results from polynomial regression analysis is displayed in table [-@tbl:model-p
 
 \normalsize
 
-**Hypothesis 3** argues that psychological safety positively relates to intrapreneurial behaviour. An individual regression analysis for the relation between psychological safety and intrapreneurial behaviour has been run to test this hypothesis. It showed an insignificant effect of .05 ($\chi$<sup>2</sup> = 0.0006, F (267) = 0.154, $\rho$ < 0.695). As such hypothesis 3 lacks evidence to be supported.
+**Hypothesis 3** argues that psychological safety positively relates to intrapreneurial behaviour. An individual regression analysis for the relation between psychological safety and intrapreneurial behaviour has been run to test this hypothesis. It showed an insignificant effect of .05 ($\chi$<sup>2</sup> = 0.0006, F (267) = 0.154, $\rho$ < 0.695) for they daily measurements. Control tests with the nine-item IB construct in T1 yielded insignificant results as well. Both for the self-reported effect of .13 (($\chi$<sup>2</sup> = 0.0021, F (260) = 0.564, $\rho$ < 0.453) and the supervisor reported value of -.19 ($\chi$<sup>2</sup> = 0.0029, F (267) = 0.785, $\rho$ < 0.376). As such hypothesis 3 lacks evidence to be supported.
 
 Hypothesis 1 argues that a fit of autonomy needed and supplied will lead to intrapreneurial behaviour. The opposite is argued by Hypothesis 2, which states that misfit relates to intrapreneurial behaviour. Response surface methodology [@edwards1993] was used to test these hypothesis. This methodology is centred around a two lines of interest. The line of congruence ($Y = X$) that represents the degree of fit between individual autonomy needs (X) and organisational supplied autonomy (Y) on the outcome of intrapreneurial behaviour (IB). The line of incongruence ($Y = -X$) displays the effect of misfit between individual needs and organisational supply.
 
