@@ -2,9 +2,9 @@
 
 ## New hypothesis - for reference
 
-1 A perceived needs-supplies (congruent) fit on autonomy will positively relate to intrapreneurial behaviour
+1 Intrapreneurial behaviour will be stronger when a perceived needs-supplies (congruent) fit for autonomy exists
 
-2 A perceived needs-supplies (incongruent) misfit on autonomy will positively relate to intrapreneurial behaviour
+2 Intrapreneurial behaviour will be stronger when a perceived needs-supplies (incongruent) misfit for autonomy exists
 
 3 Psychological safety is positively related to intrapreneurial behaviour
 

@@ -44,7 +44,7 @@ Intrapreneurial behaviour is measured using the validated measurement of [@deJon
 
 The daily construct has a Cronbach's $\alpha$ of .65. Which denotes it as a construct with a doubtful internal consistency. Typically a score higher then .7 is deemed acceptable and higher then .9 is excellent. Removing any items would not increase the consistency. Removal of any of items would consequently lead to the the measurement of one the variables proactive, innovativeness, and risk-taking.
 
-Another measure of internal consistency is composite reliability. Compared to Cronbach's $\alpha$ composite reliability does not assume all indicator loadings to be the same in the population. The study's data might violate this assumption and as such result into a lower value. The composite reliability for psychological safety is .93. @netemeyer2003 state that a minimum treshold of .80 is "reasonable" for a construct of five to eight items. Taking into account the moderate Cronbach's $\alpha$ and the high value for composite reliability yields confidence that the construct is consistent enough for use in this study.
+Another measure of internal consistency is composite reliability. Compared to Cronbach's $\alpha$ composite reliability does not assume all indicator loadings to be the same in the population. The study's data might violate this assumption and as such result into a lower value. The composite reliability for intrapreneurial behaviour is .70. @hair2021 states .70 as a minimum threshold for internal consistency reliability. Taking into account the moderate Cronbach's $\alpha$ and the acceptable value for composite reliability yields confidence that the construct is consistent enough for use in this study.
 
 In the T1 survey the nine-item construct has a Cronbach's $\alpha$ of .97 for the team members. In the supervisor survey the construct scored an $\alpha$ of .98.
 
@@ -67,7 +67,7 @@ This validated measurement consists out of three questions, all answered via a 7
 
 Psychological safety is measured via the well-proven construct of @edmondson1999. As part of the T0 survey, a 7-point Likert scale (1= very inaccurate, 7 = very accurate) required the participants to answer 7 questions. Example questions are "Members of this team are able to bring up problems and tough issues" and "Working with members of this team, my unique skills and talents are value and utilised". The full list of questions is available in appendix A.
 
-The internal consistency of the construct psychological safety has an $\alpha$ of .67, which is doubtful. Removing an item would not yield an higher reliability score. The composition reliability of this construct is .78. A value close to the minimum threshold of .8 [@netemeyer2003].
+The internal consistency of the construct psychological safety has an $\alpha$ of .67, which is doubtful. Removing an item would not yield an higher reliability score. The composition reliability of this construct is .78. A value close to the minimum threshold of .8 for a five to nine-item construct [@netemeyer2003].
 
 ### 3.3.4 Control variables
 
@@ -90,15 +90,11 @@ $$ {#eq:unmoderated_poly}
 
 For this research the emphasis is not only on the interaction between needs and supplies on intrapreneurial behaviour, but also to assess a potential moderating effect of psychological safety. To test this effect, psychological safety needs to be added to the main model and interaction. This is done by multiplying each factor in our model, as done priorly by @vogel2016. The equation including moderating is shown in equation [-@eq:moderated_poly], where PS being psychological safety. Before multiplication the values of psychological safety were standardised to a mean of 0 and a standard deviation of 1.
 
-
-
-
 $$
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_10PSxNS + b_11PSxS^2
+$$ {#eq:moderated_poly}
 
-Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_10PSxNS + b_11PSxS^2
-
-$$
-{#eq:moderated_poly}
+@@ todo: fix display of long equation in pandoc conversion
 
 The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. Computation for the slope and curvature of the surface, across low and high levels of psychological safety, were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
 
@@ -122,7 +118,8 @@ Conducting research can lead to various methodological issues that potentially h
 **Non-response**
 In order to prevent non-response the recommendations of @ohly2010 have been incorporated in its research design. Setting a maximum of surveys and reducing the effort to complete them attributes to not burden the participants during the process. Starting from the fourth distribution group a personal introduction e-mail is sent to the participants. The e-mail outlined the goals of the survey and allowed for easier communication with the researcher in case of questions.
 
-@@ to add more, look into the book of Saunders
+**Internal validity**
+In order to raise the internal validity of the research all constructs originate from well-tested sources. For example, the construct of psychological safety is often used construct in similar settings of research.
 
-
-$$
+**Reliability**
+The reliability of the research is enhanced by temporal sampling. The three main constructs are surveyed in either T0 and the daily surveys, or the daily surveys and T1. This allows for triangulation of the data for results and reliability.

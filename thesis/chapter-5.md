@@ -28,13 +28,9 @@ Explanations for this peculiar behaviour can be found in two elements. First, th
 
 Many studies, like in the affective-consistency view, test autonomy via a molar approach. @deJong2011 sees job autonomy as a design variable and implicitly sees it as a (mis)fit between person and environment. @@ add more research
 
-Given the atomistic approach of this study autonomy in its relation with intrapreneurial behaviour can be reviewed more thoroughly. The study findings suggest autonomy should not be viewed as a needs-supplies fit. Rather, both variables should be seen as distinct variables. This is supported by an insignificant result on the interaction term of individual need and organisation supply (table [-@tbl:model-poly]).
+It raises the question if the affective-consistency view and self-regulatory view are competing views. The affective-consistency view seems to be centred around the molar approach, whereas the self-regulatory view uses the atomistic approach. Rather then being competing, the two views look at the same relationship with different approaches.
 
-- The effect of autonomy (needs and supply) on intrapreneurial behaviour is clouded by effects not studied in these thesis
-  - There is no direct relation between autonomy and IB, there are other/different constructs mediating/moderating between these two variables
-  - This allows for opportunities to further research the moderating or mediating effects between autonomy and intrapreneurial behaviour
-
-@@ Analysis shows contradicting effects between individual autonomy needs and organisational autonomy supplied. The Person-Environment fit theory would suggest that as both the need and supply changes, it has the same effect on the intrapreneurial behaviour outcome. In other words, each increase of need and supply would yield in an increase of intrapreneurial behaviour.
+Given the atomistic approach of this study autonomy in its relation with intrapreneurial behaviour can be reviewed more thoroughly. The study findings suggest autonomy should not be viewed as a needs-supplies fit in relationship with IB. Rather, both variables should be seen as distinct variables. This is supported by an insignificant result on the interaction term of individual need and organisation supply (table [-@tbl:model-poly]).
 
 ### 5.2.2 Psychological safety as influencer
 
@@ -50,14 +46,28 @@ In that same low environment the highest levels of intrapreneurial behaviour are
 
 ## 5.3 Recommendations for practice
 
-- careful management of individual autonomy needs and supplies. Striving for fit might be counteractive. Especially when recruiting potential employees might be lost for no reason.
-- Attention for psychological safety. As low psychological safety is killing for IB
-- When psy safe is low and IB is required, either invest to raise psychological safety of bring in expertise/instruction and require less autonomy. Just execute the instructions.
+Organisations who are under constant pressure to innovate can benefit from supporting intrapreneurship in their organisation. Facilitating and supporting this intrapreneurial behaviour can be of influence in the ability to develop new products or services, or self-renewal. This research has not been able to provide significant relationships between autonomy (mis)fit and intrapreneurial behaviour, and psychological safety and intrapreneurial behaviour.
+
+Nevertheless, the study's findings do suggest that individual autonomy needs and organisational supplied autonomy should be looked at as individual components. In the context of attraction and selection organisation should not be concerned if the individual needs matches the organisational supply. Rather, organisations should question and evaluate what the experience of a candidate is perceived a large or small amount of autonomy. These answers and insights might tell more about the behaviour and characteristic of the candidate, then a hypothetical fit between needs and supply.
+
+Although individuals strive for perfect fit, achieving this fit is a rare situation [@vanVianen2018]. This would suggest that most people are in a situation of misfit and a form of discomfort. The significant finding in low psychological safe environments show that a small deficient misfit leads to higher levels of intrapreneurial behaviour. Instead of striving for a needs-supplies fit, organisations should rather emphasise on training and support systems to help employees with handling this misfit.
+
+This study finds that an excess of autonomy, when little is desired, in low psychological safe environments lead to a lack of intrapreneurial behaviour. When an organisations finds intrapreneurial behaviour low, additional analysis of psychological safety should be executed. For example, via anonymous surveys using the seven-items of @edmondson1999. If this yields low scores, the organisation might consider reducing the provided autonomy. Organisations that regularly conduct employee satisfaction surveys (e.g. eNPS) could consider adding this set of questions to their survey.
 
 ## 5.4 Recommendations for research
 
 ### 5.4.1 Limitations of this research
 
-- Part of a larger set of questions, more focused surveys could yield to a higher and more consistent response rate
+This research has contributed to the academic field, but also bears some limitations. For all hypothesis this study has not been able to find supportive evidence. As such, this study primarily raises new questions and does not provide definitive answers.
+
+The collected data is gathered by self-reports. Potentially this could lead to common-method bias. Meaning, that answers are reported in a consistent manner [@podsakoff2003]. Partially this is being prevented by temporal repetition. For intrapreneurial behaviour this is also prevented due to the supervisor rating in the T1 survey.
 
 ### 5.4.2 Recommendations for further research
+
+The relationship between autonomy and intrepreneurial behaviour has found to hold many questions for answering. Likewise, the influence of psychological safety yields enough questions to be answered in future research.
+
+Are the self-regulatory view and the affective-consistency view competing views, or are they concerned about different things. The three approaches towards PE-fit of @edwards2006 offers a wealth of opportunities to explore this question. Future research that combines the atomistic and molar approach could provide insight what the effects is of both approaches on intrapreneurial behaviour. It could be that the atomistic approach tends to measure different things then the molar approach. Whether or not correct, if an answer is found it can set directions for future research.
+
+This study was not able to find a direct relationship between psychological safety and intrapreneurial behaviour. The study of @mahmoud2021 was able to find this relationship. Additional research could shed light on the presence of this relationship and potential influencing factors as culture or organisational role.
+
+In low psychological safe environments this study found a high supply of autonomy when none is desired to lead to low intrapreneurial behaviour. Further research could answer the question of directionality. Does the low level of desired autonomy originate from low levels of psychological safety or do other factors play a role here.
