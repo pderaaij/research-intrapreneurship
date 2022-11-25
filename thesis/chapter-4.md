@@ -1,24 +1,11 @@
 # 4. Results
 
-## New hypothesis - for reference
-
-1 Intrapreneurial behaviour will be stronger when a perceived needs-supplies (congruent) fit for autonomy exists
-
-2 Intrapreneurial behaviour will be stronger when a perceived needs-supplies (incongruent) misfit for autonomy exists
-
-3 Psychological safety is positively related to intrapreneurial behaviour
-
-4a The positive relation of needs-supplies fit on autonomy will be stronger when psychological safety is high then when it is low
-
-4b The positive relation of needs-supplies misfit on autonomy will be stronger when psychological safety is high then when it is low
-
----
+## 4.1 Descriptive analysis
 
 The means, standard deviations, and zero-order correlations for our variables are presented in table [-@tbl:descriptives]. It shows significant relations between individual autonomy needed and autonomy supplied, and between both autonomy variables intrapreneurial behaviour. Means and standard deviations for all variables suggest considerable variations and little evidence of floor or ceiling effects.
 
 For our control variables only a significant relation between psychological safety and education has found. As all other correlations are insignificant the control variables are ignored for further analysis of the data.
 
-\newpage
 \footnotesize
 
 | Variables                            | Mean | SD   | 1        | 2        | 3     | 4          | 5     | 6   |
@@ -40,9 +27,11 @@ For our control variables only a significant relation between psychological safe
 
 Confirmatory factor analyses showed that the four-factor model in which the study variables were kept separate was a better fit to the data. The four-factor model ($\chi$<sup>2</sup> (98, N=269) = 401.566, $\rho$ < 0.001; comparative fit index (CFI) = .873; root mean square error of approximation (RMSEA) = .107; standardised root mean square residual (SRMR) = .037) compared better then the one-factor model (x<sup>2</sup> (104, N=269) = 1443.527, $\rho$ < 0.001; CFI = .44; RMSEA = .219; SRMR = .17). An ANOVA test between the models showed a $\Delta\chi$<sup>2</sup> of 1042 with a $\rho$ < 0.001. The results of the four-factor model support the distinctiveness of the measures used in the study.
 
-Contradictory the individual autonomy needs relate positively to intrapreneurial behaviour whereas supplied organisational autonomy relates negatively. This suggests that both needs and supply of autonomy has no congruent and incongruent effect [@@]. Multiple linear regression analysis ($\chi$<sup>2</sup> = 0.0423, F (266) = 5.874, $\rho$ < 0.01) confirms the contradictory findings. For every 1% increase in individual autonomy need an 0.24% increase of intrapreneurial behaviour is found ($\rho$ < 0.01). On organisational supplied autonomy each 1% increase leads to 0.17% decrease of intrapreneurial behaviour ($\rho$ < 0.05).
+## 4.2 Hypothesis testing
 
-Results from polynomial regression analysis is displayed in table [-@tbl:model-poly]. $R^2$ results suggest that both models account for significant variance. For both models low $R^2$ values are reported. These low values indicate high variability in the collected data. As this study tests congruence hypothesis the values of $R^2$ are not informative. To test the hypothesis the pattern in the coefficients is crucial, which is not displayed by $R^2$.
+@@Contradictory the individual autonomy needs relate positively to intrapreneurial behaviour whereas supplied organisational autonomy relates negatively. This suggests that both needs and supply of autonomy has no congruent and incongruent effect [@@]. Multiple linear regression analysis ($\chi$<sup>2</sup> = 0.0423, F (266) = 5.874, $\rho$ < 0.01) confirms the contradictory findings. For every 1% increase in individual autonomy need an 0.24% increase of intrapreneurial behaviour is found ($\rho$ < 0.01). On organisational supplied autonomy each 1% increase leads to 0.17% decrease of intrapreneurial behaviour ($\rho$ < 0.05).
+
+Results from polynomial regression analysis is displayed in table [-@tbl:model-poly]. $R^2$ results suggest that both models account for significant variance. For both models low $R^2$ values are reported. As this study tests congruence hypothesis the values of $R^2$ are not informative. To test the hypothesis the pattern in the coefficients is crucial, which is not displayed by $R^2$ (Edwards, personal communication).
 
 \footnotesize
 

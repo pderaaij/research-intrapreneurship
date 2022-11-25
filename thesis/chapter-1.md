@@ -20,7 +20,7 @@ Intrapreneurial behaviour is often measured on individual level. Yet, the act of
 
 Both autonomy fit and misfit has shown to influence dimensions of intrapreneurial behaviour. @yu2016, for example, showed that autonomy misfit leads to higher levels of proactivity. In case of autonomy fit, psychological safety has influenced creativity, risk taking, and motivation to engage in learning [@choo2007]. Given these findings, psychological safety might influence the effects of autonomy (mis)fit in relation with intrapreneurial behaviour.
 
-Summarising, autonomy has been researched as a contributing factor to intrapreneurship in various researches. Yet, none of these consider the personal needs for autonomy. Different forms of experienced misfits can have different effects on intrapreneurial behaviour. Additionally, a psychological safe team can moderate the effect of misfit on intrapreneurial behaviour.
+Summarising, autonomy has been researched as a contributing factor to intrapreneurship in various researches. Yet, none of these consider the personal needs for autonomy. Different forms of experienced misfits can have different effects on intrapreneurial behaviour. Additionally, a psychological safe team can moderate the effect of misfit on intrapreneurial behaviour. This study researches these various perspectives to raise answers and new questions.
 
 ## 1.3 Academic & practical relevance
 
@@ -38,4 +38,4 @@ Besides providing advice & insights to the attraction and selection of employees
 
 ## 1.4 Method of research
 
-The study follows a quantitive design to analyse correlating effects between the variables. A diary study is the primary method to collect the data. Software development teams filled in a daily questionnaire for 10 consecutive working days. The resulting data is analysed via structural equation modelling.
+The study follows a quantitive design to analyse correlating effects between the variables. A diary study is the primary method to collect the data. Software development teams filled in a daily questionnaire for 10 consecutive working days. Prior to the daily surveys participants filled in a baseline (T0) survey. Following the dailies a reflective survey (T1) is filled in by participants and their supervisors. The resulting data is analysed using polynomial regression analysis and three dimensional surface response analysis.
