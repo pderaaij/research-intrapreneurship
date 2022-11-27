@@ -95,6 +95,8 @@ $$
 
 The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. Interpretation of the surfaces is done by four test variables: $a1$, $a2$, $a3$, and $a4$. The first two test variables are centred around the line of perfect agreement between the two predictor variables. The latter two are centred around the line of incongruence. Where $a1$ and $a3$ are both concerned with the slope of each line, $a2$ and $a4$ evaluate the curvature of each corresponding line. Computation for the slope and curvature of the surface, across low and high levels of psychological safety, were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
 
+@@ unstandardised values for each a
+
 
 ### 3.4.1 Dataset preparation
 
