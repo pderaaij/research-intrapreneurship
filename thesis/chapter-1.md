@@ -24,11 +24,13 @@ Summarising, autonomy has been researched as a contributing factor to intraprene
 
 ## 1.3 Academic & practical relevance
 
-In the current academic literature not much is known about the relation and effects of autonomy (mis)fit, psychological safety, and intrapreneurial behaviour. Although the elements on their own have been subject of many researches, the trilogy of these elements have not been examined. The contribution of this research as such is multifold.
+In current academic literature not much is known about the relation and effects of autonomy (mis)fit, psychological safety, and intrapreneurial behaviour. Although the elements on their own have been subject of many researches, the trilogy of these elements have not been examined. The contribution of this research as such is multifold.
 
 ### 1.3.1 Academic relevance
 
 The contribution of this paper to the academics is twofold. First, a recurring question in the field of intrapreneurship is the influence of teams on intrapreneurial behaviour [@neessen2019; @deJong2015]. The answers of this research contribute to the field by displaying if and how the team affects intrapreneurial behaviour of an individual. Specifically, if a psychological safe team environment acts as a catalyst or as a coping mechanism in the case of autonomy (mis)fit for the individual. Secondly, this also answers a question raised by @vanVianen2018: "which environmental and individual factors mitigate experienced misfits?". In the case of this research the question is if psychological safety mitigates the experienced autonomy misfit.
+
+Polynomial regression analysis is used to not simply see fit or misfit binary. By using polynomial regression analysis and the accompanying surface response analysis the type of misfit can be determined. Misfit can be either an excess (having too much of it) or a deficiency (having too less of it). Prior research shows that excess misfit can have different outcomes then deficient misfts [@stiglbauer2018, @vogel2016].
 
 ### 1.3.2 Practical relevance
 

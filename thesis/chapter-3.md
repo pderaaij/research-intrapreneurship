@@ -83,19 +83,13 @@ $$ {#eq:unmoderated_poly}
 
 For this research the emphasis is not only on the interaction between needs and supplies on intrapreneurial behaviour, but also to assess a potential moderating effect of psychological safety. To test this effect, psychological safety needs to be added to the main model and interaction. This is done by multiplying each factor in our model, as done priorly by @vogel2016. The equation including moderating is shown in equation [-@eq:moderated_poly], where PS being psychological safety. Before multiplication the values of psychological safety were standardised to a mean of 0 and a standard deviation of 1.
 
+\begin{equation}
+\begin{gathered}
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\ b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_{10}PSxNS + b_{11}PSxS^2
+\end{gathered}
+\end{equation} {#eq:moderated_poly}
 
-$$
-
-Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_10PSxNS + b_11PSxS^2
-
-$$
-{#eq:moderated_poly}
-
-@@ todo: fix display of long equation in pandoc conversion
-
-The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. Interpretation of the surfaces is done by four test variables: $a1$, $a2$, $a3$, and $a4$. The first two test variables are centred around the line of perfect agreement between the two predictor variables. The latter two are centred around the line of incongruence. Where $a1$ and $a3$ are both concerned with the slope of each line, $a2$ and $a4$ evaluate the curvature of each corresponding line. Computation for the slope and curvature of the surface, across low and high levels of psychological safety, were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
-
-@@ unstandardised values for each a
+The results of the polynomial regression analysis are plotted in a three-dimensional space following @edwards1993. The three dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. It visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. Interpretation of the surfaces is done by four test variables: $a1$, $a2$, $a3$, and $a4$. The first two test variables are centred around the line of perfect agreement between the two predictor variables. The latter two are centred around the line of incongruence. Where $a1$ and $a3$ are both concerned with the slope of each line, $a2$ and $a4$ evaluate the curvature of each corresponding line. Unstandardised values are used to calculate the a's. Computation for the slope and curvature of the surface, across low and high levels of psychological safety, were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
 
 
 ### 3.4.1 Dataset preparation

@@ -12,7 +12,7 @@ fontfamilyoptions:
   - default
   - defaultsans
 
-header-includes: \usepackage{rotating}
+header-includes: \usepackage{amsmath}
 
 title: "Allow me to be an intrapreneur."
 subtitle: "How does autonomy misfit, together with psychological safety in a team, contribute to intrapreneurial behaviour?"

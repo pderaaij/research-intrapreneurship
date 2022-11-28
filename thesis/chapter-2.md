@@ -2,8 +2,6 @@
 
 The theoretical framework of this study is centred around the key concepts discussed in the problem statement. The concepts are further detailed and explained using literature study. A visual model of this study can be seen in [@fig:research-framework].
 
-@@ Rewrite and re-structure hypothesis
-
 ## 2.1 What is intrapreneurship & intrapreneurial behaviour?
 
 “Intrapreneurship is a process whereby employee(s) recognise and exploit opportunities by being innovative, proactive and by taking risks, in order for the organisation to create new products, processes and services, initiate self-renewal or venture new businesses to enhance the competitiveness and performance of the organisation [@neessen2019]”. In academic literature "intrapreneurship" usually refers to individual workers rather than organisations or boardroom-level decision makers [@deJong2011]. This thesis adopts this points of view that intrapreneurship is a bottom-up approach [@deJong2011; @neessen2019]. A common label of intrapreneurship is corporate entrepreneurship [@deJong2011]. In line with @deJong2011 this thesis regards corporate entrepreneurship as a top-down process that can be used by business owners and general manages to foster new ventures, innovation, and strategic renewal [@deJong2011].
@@ -36,8 +34,6 @@ Many researches has implicitly or explicitly researched this affective-consisten
 
 @deJong2015 found that job autonomy was directly related to the intrapreneurial dimensions of innovativeness and proactiveness. Job autonomy in this research made a difference towards entrepreneurial behaviour. Job performance is also affected by job autonomy. @mueckeHowDoesJob2019 found that job autonomy leads to better performance as it enhance work motivation and reduces mental strain. In conjunction with high-quality leader-member exchange, job autonomy strengthens the effect of this exchange on creative work. Summarising, job autonomy has been found to have positive outcomes on a variety of perspectives. Yet, underlying in all these positive outcomes is a fit between the autonomy needs and supplies. Meaning, as an individual when I get the right level of autonomy I will show higher levels of intrapreneurial behaviour, compared to those who feel they either lack or have too much autonomy.
 
-> Hypothesis 1: (a) Intrapreneurial behaviour will be lower when individual needs and organisational supply are both low and will be higher when both are high; (b)intrapreneurial behaviour will increase as organisational supply of autonomy increases towards individual autonomy need (fit), and will decrease as organisational supply exceeds individual need.
-
 Nevertheless, the nature of this research discards the desire to have autonomy in contrast to the autonomy supplied by the organisation. @deJong2015 for example, already mentioned the limitation that highly entrepreneurial employees may be the ones that obtain high-autonomy functions. This potentially skews it findings.
 
 ### 2.2.2 The self-regulatory view
@@ -56,6 +52,12 @@ It is believed that an excess of misfit will do less harm then a deficient misfi
 A "too-much-of-a-good-thing" effect exist for autonomy. @zhou2020 discovered that giving too much autonomy to an individual has a tipping point. When exceeding that tipping point too much of autonomy displayed to be detrimental for the individual. Substantial levels of excess autonomy has shown to decrease an individuals well-being [@stiglbauer2018]. @zhou2020 argues that an increase of autonomy leads to a depletion of job resources and consequently the subjective well-being of an individual will decline.
 
 An excess of autonomy therefore is unproblematic, but not indefinitely. At some point the individual will perceive the autonomy as a burden and from that moment negatively impact intrapreneurial behaviour. The effect of excess autonomy on intrapreneurial behaviour is deemed to be curvilinear instead of linear.
+
+Summarising, the affective-consistency based view is centred around autonomy fit. Leading to our first hypothesis:
+
+> Hypothesis 1: (a) Intrapreneurial behaviour will be lower when individual needs and organisational supply are both low and will be higher when both are high; (b)intrapreneurial behaviour will increase as organisational supply of autonomy increases towards individual autonomy need (fit), and will decrease as organisational supply exceeds individual need.
+
+The self-regulatory view assumes individual autonomy needs and organisational autonomy supply need to be incongruent. Without this misfit, people will not come into motion and behave intrapreneurially. Leading to our second hypothesis:
 
 > Hypothesis 2: (a) Intrapreneurial behaviour will be lower when individual needs and organisational supply are both low or both high; (b) Intrapreneurial behaviour will increase when the difference between individual needs and organisational supply (misfit) increases.
 
@@ -104,7 +106,5 @@ Following the self-regulatory view, an excess of autonomy will give individuals 
 Additionally, @yu2016 showed that also a deficiency of misfit yields to proactive behaviour, although lower then the case of excess misfit. Clarification for this difference has not been provided by the authors. A possible explanation can be found in the findings of @lambert2003 that deficient misfit leads to greater job dissatisfaction for specific inducements. The dissatisfaction of work has been found to lead to creativity [@zhou2001], Likewise, @vanVianen2018 noted that “Seeking feedback may help individuals to better cope with misfit by putting effort into learning or adjusting to the job demands.”
 
 > Hypothesis 4b: The positive relation of needs-supplies misfit on autonomy will be stronger when psychological safety is high then when it is low
-
-@@ todo refresh conceptual model
 
 ![Research framework](./thesis/figures/conceptual-model.jpg){#fig:research-framework}
