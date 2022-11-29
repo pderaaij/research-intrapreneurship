@@ -30,7 +30,7 @@ In current academic literature not much is known about the relation and effects 
 
 The contribution of this paper to the academics is twofold. First, a recurring question in the field of intrapreneurship is the influence of teams on intrapreneurial behaviour [@neessen2019; @deJong2015]. The answers of this research contribute to the field by displaying if and how the team affects intrapreneurial behaviour of an individual. Specifically, if a psychological safe team environment acts as a catalyst or as a coping mechanism in the case of autonomy (mis)fit for the individual. Secondly, this also answers a question raised by @vanVianen2018: "which environmental and individual factors mitigate experienced misfits?". In the case of this research the question is if psychological safety mitigates the experienced autonomy misfit.
 
-Polynomial regression analysis is used to not simply see fit or misfit binary. By using polynomial regression analysis and the accompanying surface response analysis the type of misfit can be determined. Misfit can be either an excess (having too much of it) or a deficiency (having too less of it). Prior research shows that excess misfit can have different outcomes then deficient misfts [@stiglbauer2018, @vogel2016].
+Two types of misfit exist. By using polynomial regression analysis and the accompanying surface response analysis the type of misfit can be determined. Investigating the both types of misfit is important. Misfit can be either an excess (having too much of it) or a deficiency (having too less of it). Prior research shows that an excess of misfit can have different outcomes then a deficient misfit [@stiglbauer2018, @vogel2016].
 
 ### 1.3.2 Practical relevance
 
@@ -40,4 +40,4 @@ Besides providing advice & insights to the attraction and selection of employees
 
 ## 1.4 Method of research
 
-The study follows a quantitive design to analyse correlating effects between the variables. A diary study is the primary method to collect the data. Software development teams filled in a daily questionnaire for 10 consecutive working days. Prior to the daily surveys participants filled in a baseline (T0) survey. Following the dailies a reflective survey (T1) is filled in by participants and their supervisors. The resulting data is analysed using polynomial regression analysis and three dimensional surface response analysis.
+The study follows a quantitive design to analyse correlating effects between the variables. A diary study is the primary method to collect the data. Software development teams filled in a daily questionnaire for 10 consecutive working days. Prior to the daily surveys participants filled in a baseline (T0) survey. Following the dailies a reflective survey (T1) is filled in by participants and their supervisors. The resulting data is analysed using polynomial regression analysis and visualised in the tree-dimensional images using surface response modelling.
