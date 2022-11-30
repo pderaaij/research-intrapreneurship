@@ -72,7 +72,7 @@ Prior experiences has proven to improve the recognition of opportunities [@neess
 
 The analysis of data is done via the program 'RStudio' and the R packages 'lavaan' and 'multcomp'. Lavaan enables latent variable modelling and provides a large variety of multivariate statistical models. Multcomp offers tests and confidence intervals for general linear hypothesis.
 
-The reliability of the constructs in the survey is tested by calculating Cronbach's alpha ($\alpha$). The internal consistency is deemed valid enough at a score of .7 or higher.
+The reliability of the constructs in the survey is tested by calculating Cronbach's alpha ($\alpha$). The internal consistency is deemed valid enough at a score of .7 or higher. For constructs that didn't meet this threshold - or just barely - additional tests for reliability are done using composite reliability.
 
 The analysis of relations and effect between the variables is done by polynomial regression equations [@edwards1993]. Polynomial regression analysis allows researchers to analyse the effects of two predictor variables in relationship with an outcome [@shanock2010]. As an analytical technique it is often used to study person-environment fit (e.g. @edwards2009, @kristof2005, @yu2016). Predominantly interesting is that polynomial regression equations allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using equation [-@eq:unmoderated_poly], where N = individual autonomy needs and S = organisational autonomy supplied.
 
