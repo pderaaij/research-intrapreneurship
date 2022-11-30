@@ -103,4 +103,21 @@ No significant results have been found for high psychological safe environments.
 
 ## 4.4 Supplementary analysis
 
-Control tests with the nine-item IB construct in T1 yielded insignificant results as well. Both for the self-reported effect of .13 (($\chi$<sup>2</sup> = 0.0021, F (260) = 0.564, $\rho$ < 0.453) and the supervisor reported value of -.19 ($\chi$<sup>2</sup> = 0.0029, F (267) = 0.785, $\rho$ < 0.376). As such hypothesis 3 lacks evidence to be supported.
+The main analysis yielded results that lacked evidence to support any of the developed hypotheses. For controlling purposes, and extra insights, additional analysis has been held.
+
+Primary results showed that individual needs together with organisational autonomy supply would not show a significant relationship with intrapreneurial behaviour. Which is shown by both the executed multiple linear regression and the polynomial regression analysis. To measure autonomy the construct of @spreitzer1995 is used. These questions test for job autonomy, decision making, and freedom. Three concepts which can be seen as distinct elements of autonomy. Potentially a needs-supplies effect of autonomy could be found on each distinct element of autonomy. Table [-@tbl:regs-autonomy] displays the results for each individual analysis. Each analysis was a polynomial regression analysis that took the perceived and desired observation and regressed it on the daily intrapreneurial behaviour. Job autonomy showed a significant relationship between the individual needs and organisational supply on intrapreneurial behaviour.
+
+|                                      | _Job autonomy_ |        | _Decision making_ |        | _Freedom_ |        |
+| :----------------------------------- | -------------: | -----: | ----------------: | -----: | --------: | -----: |
+| **Variables**                        |          **b** | **SE** |             **b** | **SE** |     **b** | **SE** |
+| Individual autonomy needs (N)        |            .04 |    .10 |          .35 \*\* |    .12 |       .11 |    .11 |
+| Organisational autonomy supplied (S) |           -.07 |    .11 |              -.06 |    .11 |      -.16 |    .09 |
+| N²                                   |           -.01 |    .03 |              0.02 |    .03 |      -.02 |    .03 |
+| N x S                                |         .09 \* |    .05 |              -.06 |    .05 |       .04 |    .05 |
+| S²                                   |        -.09 \* |    .04 |              -.05 |    .03 |      -.02 |    .04 |
+| F-statistic                          |        4.88 \* |        |           4.83 \* |        |   2.87 \* |
+| R²                                   |         .07 \* |        |            .07 \* |        |    .04 \* |
+
+: Polynomial regression analysis on distinct elements of autonomy {#tbl:regs-autonomy}
+
+The main analysis was not able to find a significant relation between psychological safety and intrapreneurial behaviour. This is tested by using the three-item construct of intrapreneurial behaviour. A construct with a relatively weak Cronbach's $\alpha$ of .65. The nine-item constructs used in both T1 surveys had higher reliability scores. Therefore control tests were run for psychological safety on the T1 survey of the team members and on that for the supervisors. Both yielded insignificant results as well. The self-reported an effect of .13 (($\chi$<sup>2</sup> = 0.0021, F (260) = 0.564, $\rho$ < 0.453) and the supervisor survey reported value of -.19 ($\chi$<sup>2</sup> = 0.0029, F (267) = 0.785, $\rho$ < 0.376). Contributing to the lack of evidence to support hypothesis 3.

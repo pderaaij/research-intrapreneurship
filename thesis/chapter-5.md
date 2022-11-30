@@ -32,7 +32,7 @@ This study followed a atomistic approach. We have evaluated the needs and supply
 
 It raises the question if the affective-consistency view and self-regulatory view are competing views. The affective-consistency view seems to be centred around the molar approach, whereas the self-regulatory view uses the atomistic approach. Rather then being competing, the two views might look at the same relationship with different approaches. With the risk of interpreting relationships, its origins, and consequences differently.
 
-Finally, this study tested autonomy in a broad sense of the concept. The questions of @spreitzer1995 test for job autonomy, decision making, and freedom. As a whole a significant relation could not be found, but additional analysis on individual items did yield significant results. Except, only when separating the individual need from the organisational supplied autonomy. Similar relationships are found in the study of @deJong2011.
+Finally, this study tested autonomy in a broad sense of the concept. The questions of @spreitzer1995 test for job autonomy, decision making, and freedom. As a group of three elements, both for individual need and organisational supply, a significant relation with intrapreneurial behaviour could not be found. Additional analysis ([@tbl:regs-autonomy]) repeated this finding for each distinct element.
 
 ### 5.2.2 Psychological safety as influencer
 
