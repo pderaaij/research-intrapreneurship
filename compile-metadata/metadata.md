@@ -14,8 +14,8 @@ fontfamilyoptions:
 
 header-includes: \usepackage{amsmath}
 
-title: "Allow me to be an intrapreneur."
-subtitle: "How does autonomy misfit, together with psychological safety in a team, contribute to intrapreneurial behaviour?"
+title: "Autonomy as a promotor for intrapreneurship"
+subtitle: "A Person-Environment fit view on autonomy and intrapreneurial behaviour, together with the influence of psychological safety."
 author: "Paul de Raaij"
 ---
 
