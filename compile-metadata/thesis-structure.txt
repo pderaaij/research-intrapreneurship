@@ -1,4 +1,6 @@
 compile-metadata/metadata.md
+thesis/summary.md
+compile-metadata/forced-newpage.md
 thesis/chapter-1.md
 compile-metadata/forced-newpage.md
 thesis/chapter-2.md
