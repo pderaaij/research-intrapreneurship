@@ -14,7 +14,7 @@ fontfamilyoptions:
 
 header-includes: \usepackage{amsmath}
 
-title: "Autonomy as a promotor for intrapreneurship"
+title: "Autonomy as a promotor of intrapreneurship"
 subtitle: "A Person-Environment fit view on autonomy and intrapreneurial behaviour, together with the influence of psychological safety."
 author: "Paul de Raaij"
 ---
