@@ -2,7 +2,7 @@
 
 ## 3.1 Research design
 
-This study uses a descriptive research design. Data was collected via diary studies. Diary studies are used for two primary reasons. First, diary studies are helpful for collecting data on working-environment characteristics that are subject to fluctuations [@bakker2014]. Second, using diary studies helps prevent common rater bias, a pronounced effect in PE-fit studies [@kristof2005]. Common rater biases are conscious or unconscious tendencies that influence supplied ratings. By using a diary study and thus by collecting responses on multiple days, this bias can be prevented. The developed hypotheses concern the relationships of fluctuating states and are typical research questions answered by a diary study [@ohly2010].
+Data was collected via diary studies. Diary studies are used for two primary reasons. First, diary studies are helpful for collecting data on working-environment characteristics that are subject to fluctuations [@bakker2014]. Second, using diary studies helps prevent common rater bias, a pronounced effect in PE-fit studies [@kristof2005]. Common rater biases are conscious or unconscious tendencies that influence supplied ratings. By using a diary study and thus by collecting responses on multiple days, this bias can be prevented. The developed hypotheses concern the relationships of fluctuating states and are typical research questions answered by a diary study [@ohly2010].
 
 As psychological safety is primarily a team construct [@edmondson1999] and achieving intrapreneurial outcomes is a team effort, the research design is also focused on teams. Teams were asked to collect data during a sprint. Sprints are a fixed period in which a team tries to fulfil their commitments to work items, promised at the start of the sprint. The concept of a sprint is part of Scrum, an agile methodology of work. Typically, sprints lasted for two weeks. When a sprint started for a team, the data collection period started as well.
 
@@ -38,7 +38,7 @@ The data for this research was collected in three phases ([@tbl:collection-appro
 
 \normalsize
 
-All surveys were sent digitally via email. The digital surveys were programmed in the software Qualtrics. The T0 survey was sent a week before the start of the daily collection period and had to be filled in before the first daily. All dailies were sent at 15:30 and only active for the day they were sent out. Participants were free to ignore a survey due to a day off or work for another team. Lastly, a T1 survey was sent directly after the dailies phase. For both T0 and T1, a reminder was sent on the third day. Participants had the option to opt-out of any email sent to them, effectively stopping their participation in the survey.
+All surveys were sent digitally via email. The digital surveys were programmed in the software Qualtrics. The T0 survey was sent a week before the start of the daily collection period and had to be filled in before the first daily. All dailies were sent at 15:30 and only active for the day they were sent out. Participants were free to ignore a survey due to a day off or work for another team. Lastly, a T1 survey was sent directly after the dailies phase. For both T0 and T1, a reminder was sent on the third day. Participants had the option to opt-out of any email sent to them, effectively stopping their participation in the survey. Ultimately, the supervisors data is only used for supplementary analysis to control main model findings.
 
 ## 3.3 Measures
 
@@ -48,7 +48,7 @@ All measurement items are presented in Appendix A. For all items, a 7-point Like
 
 Intrapreneurial behaviour was measured using the validated measurement of [@deJong2015]. This measurement has been proven to measure the dimensions of proactiveness, innovativeness and risk-taking. This measurement was used in the daily and the T1 surveys. The T1 survey, both for team members and the supervisor, consisted of nine items. An example item is “I generate creative ideas”. For the daily a shorter three-item construct [@deJong2015] was used.
 
-The daily construct has had a Cronbach’s $\alpha$ of .65, w. Which denotes it as a construct with a doubtful internal consistency. Typically, a score higher than .7 is deemed acceptable, and a score higher thanen .9 is considered excellent. Removing any items would not increase the consistency. The removal of any of the items would consequently would lead to the removing of a measurement for one of the variables: proactiveness, innovativeness, and or risk-taking.
+The daily construct has had a Cronbach’s $\alpha$ of .65, which denotes it as a construct with a doubtful internal consistency. Typically, a score higher than .7 is deemed acceptable, and a score higher than .9 is considered excellent. Removing any items would not increase the consistency. The removal of any of the items would consequently lead to the removing of a measurement for one of the variables: proactiveness, innovativeness, or risk-taking.
 
 Another measure of internal consistency is composite reliability. Compared to Cronbach's $\alpha$ composite reliability does not assume all indicator loadings represent the same population. The study's data might violate this assumption and as such result into a lower value. The composite reliability for intrapreneurial behaviour was .70. @hair2021 state that .70 is the minimum threshold for internal consistency reliability. Considering the moderate Cronbach's $\alpha$ and the acceptable value for composite reliability, the construct was deemed consistant enough for use in this study.
 
@@ -58,17 +58,17 @@ For the T1 survey the nine-item construct had a Cronbach's $\alpha$ of .97 for t
 
 To determine the (mis)fit of autonomy for an individual the construct of [@spreitzer1995] was used. The construct was used at T0 and for the daily surveys. To determine both the need and the supply, the same three items were asked with a different prefix. For the need, each item in the daily survey started with “Today, I found…”. “Today, I had…” was the prefix for the supply construct in the daily survey. The T0 survey had “I have/can…” as a prefix for the supply and “I find…” as prefix for the need.
 
-This validated measurement consisted out of three items. "The opportunity to determine how I do my job" is an example item. The alpha's for the various surveys were T0/Need: .93; T0/Supply: .94; T1/Need: .92; and T1/Supply: .89.
+This validated measurement consisted out of three items. "The opportunity to determine how I do my job" is an example item. Cronbach's alpha's for the various surveys were T0/Need: .93; T0/Supply: .94; T1/Need: .92; and T1/Supply: .89.
 
 ### 3.3.3 Psychological safety
 
 Psychological safety was measured via the well-proven construct of @edmondson1999. As part of the T0 survey, participants were required to respond to seven items. Example items are "Members of this team are able to bring up problems and tough issues" and "Working with members of this team, my unique skills and talents are value and utilised".
 
-The internal consistency of the construct psychological safety had an $\alpha$ of .67, which is doubtful. Removing an item would not yield a higher reliability score. The composition reliability of this construct was .78, a value close to the minimum threshold of .8 for a five to nine-item construct [@netemeyer2003].
+The internal consistency of the construct psychological safety had a Cronbach $\alpha$ of .67, which is doubtful. Removing an item would not yield a higher reliability score. The composition reliability of this construct was .78, a value close to the minimum threshold of .8 for a five to nine-item construct [@netemeyer2003].
 
 ### 3.3.4 Control variables
 
-Education was added to the T0 survey as a control variable. . The meta-review study of @neessen2019 found that intrapreneurs have a higher educational level in comparison with other employees. To discern participants’ educational level, the survey asked, “Which is your highest earned education?” Possible answers were high school, bachelor, master, doctorate, and other.
+Education was added to the T0 survey as a control variable. The meta-review study of @neessen2019 found that intrapreneurs have a higher educational level in comparison with other employees. Similarly, educational level influences job autonomy [@ross1992]. To discern participants’ educational level, the survey asked, “Which is your highest earned education?” Possible answers were high school, bachelor, master, doctorate, and other.
 
 Prior experience has been shown to improve individuals’ ability to recognise opportunities [@neessen2019]. To prevent confounding results, a control variable for “first job” was added.
 
@@ -78,22 +78,23 @@ The data analysis was conducted using the program RStudio and the R packages ‘
 
 The reliability of the constructs in the survey is was tested by calculating Cronbach’s alphas ($\alpha$). The internal consistency is was deemed valid enough at if a score of .7 or higher was obtained. For constructs that didn’t did not meet this threshold –- or just barely met this threshold - – additional tests for reliability are were done using composite reliability.
 
-The analysis of relations and effect between the variables was done using polynomial regression equations [@edwards1993]. Polynomial regression analysis allows researchers to analyse the effects of two predictor variables in relationship to an outcome [@shanock2010]. As an analytical technique, polynomial regression is often used to study Person-Environment fit (e.g. @edwards2009; @kristof2005; @yu2016). Polynomial regression equations notably allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using equation [-@eq:unmoderated_poly] shown below, where N = individual autonomy needs and S = organisational autonomy supplied.
+The analysis of relations and effect between the variables was done using polynomial regression equations [@edwards1993]. Polynomial regression analysis allows researchers to analyse the effects of two predictor variables in relationship to an outcome [@shanock2010]. As an analytical technique, polynomial regression is often used to study Person-Environment fit (e.g. @edwards2009; @kristof2005; @yu2016). Polynomial regression equations notably allow for three-dimensional investigations of the effect of autonomy needs and supply on intrapreneurial behaviour. Polynomial regression analyses are generally performed using equation 1 shown below, where N = individual autonomy needs and S = organisational autonomy supplied.
 
-$$
+\begin{equation}
+\begin{gathered}
 Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2
-$$ {#eq:unmoderated_poly}
+\end{gathered}
+\end{equation}
 
 This research not only emphasises the interaction between needs and supplies on intrapreneurial behaviour but also assesses the potential moderating effect of psychological safety. To test this effect, psychological safety needs to be added to the main model and interaction. This was done by multiplying each factor in the model, as done previously @vogel2016. The equation including moderation is shown in equation 2, where PS is psychological safety. Before multiplication the values of psychological safety were standardised to a mean of 0 and a standard deviation of 1.
 
 \begin{equation}
 \begin{gathered}
-Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\ b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_{10}PSxNS + b_{11}PSxS^2
+Z = b*0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\ b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b*{10}PSxNS + b\_{11}PSxS^2
 \end{gathered}
 \end{equation}
 
-The results of the polynomial regression analysis were plotted in a three-dimensional space following @edwards1993. The three-dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. This view visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. The interpretation of the surfaces was done using four test variables: $a1$, $a2$, $a3$, and $a4$. The first two test variables were centred around the line of perfect agreement between the two predictor variables. The latter two are centred around the line of incongruence. Where $a1$ and $a3$ are both concerned with the slope of each line, $a2$ and $a4$ were used to evaluate the curvature of each corresponding line. Unstandardised values are used to calculate the as. The slope and curvature of the surface across low and high levels of psychological safety were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
-
+The results of the polynomial regression analysis were plotted in a three-dimensional space following Edwards & Parry (1993). The three-dimensional view allows for more explanatory potential than traditional moderated regression analyses [@shanock2010]. This view visualises the relationship of two predictor variables on the outcome variable along the line of congruence and incongruence. The resulting surfaces are helpful in the explanation and understanding of the discovered findings. The interpretation of the surfaces was done using four test variables: $a1$, $a2$, $a3$, and $a4$. The first two test variables were centred around the line of perfect agreement between the two predictor variables. The latter two are centred around the line of incongruence. Where $a1$ and $a3$ are both concerned with the slope of each line, $a2$ and $a4$ were used to evaluate the curvature of each corresponding line. Unstandardised values are used to calculate the as. The slope and curvature of the surface across low and high levels of psychological safety were computed by substituting values one standard deviation above and below the mean of intrapreneurial behaviour [@cohen2014].
 
 ### 3.4.1 Dataset preparation
 
@@ -103,10 +104,9 @@ A total of 24 teams participated in the daily studies. The number of unique part
 
 Not all respondents of the daily survey filled in the T0 survey. Twenty participants did not fill in the T0 survey, resulting in missing information on psychological safety. As RStudio can cope with partial information and the data is still useful for testing hypothesis 1 and hypothesis 2, the daily surveys of these 20 people were not removed from the analysis. The T0 was opened by 73 respondents, of which only 59 completed the survey (81%).
 
-
 ### 3.4.2 Characteristics of the survey participants
 
-The characteristics of the survey participants represent only those respondents that entered at least one daily survey and the T0 survey.  The respondents were pre-dominantly male (87%). Most respondents worked full-time (88%), meaning 36 hours or more per week. The ages of the respondents ranged between 21 and 64 ($M=36.81$, $SD=9.21$) and ,most were highly educated (87% had at least an bachelor's degree).
+The characteristics of the survey participants represent only those respondents that entered at least one daily survey and the T0 survey. The respondents were pre-dominantly male (87%). Most respondents worked full-time (88%), meaning 36 hours or more per week. The ages of the respondents ranged between 21 and 64 ($M=36.81$, $SD=9.21$) and ,most were highly educated (87% had at least an bachelor's degree).
 
 ## 3.5 Methodological issues
 
@@ -117,4 +117,3 @@ Conducting research can lead to various methodological issues that potentially h
 **Internal validity**, To raise the internal validity of the research, all constructs were taken from well-tested sources. For example, the construct of psychological safety is an often-used construct in similar settings of research.
 
 **Reliability**, The reliability of the research was enhanced through the use of temporal sampling. The three main constructs are surveyed in either T0 and the daily surveys or the daily surveys and T1. This allowed for the triangulation of the data.
-

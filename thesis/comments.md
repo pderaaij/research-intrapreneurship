@@ -1,0 +1,1 @@
+With respect to the argument for including education as control variable, you could state that it is likely to be related to both the IV as well as the DV and this is why you have decided to control for education.
