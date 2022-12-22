@@ -90,7 +90,7 @@ This research not only emphasises the interaction between needs and supplies on 
 
 \begin{equation}
 \begin{gathered}
-Z = b*0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\ b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b*{10}PSxNS + b\_{11}PSxS^2
+Z = b_0 + b_1N + b_2S + b_3N^2 + b_4NS + b_5S^2 + \\ b_6PS + b_7PSxN + b_8PSxS + b_9PSxN^2 + b_{10}PSxNS + b_{11}PSxS^2
 \end{gathered}
 \end{equation}
 
